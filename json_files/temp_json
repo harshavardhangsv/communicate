@@ -1,0 +1,4132 @@
+{
+    "मद्देनजर": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 4
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_द्वारा": {
+        "k1": {
+            "name": "karta", 
+            "count": 5
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 3
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "योग्य": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "हवाले_से": {
+        "k3": {
+            "name": "karana", 
+            "count": 1
+        }
+    }, 
+    "के_मार्फत": {
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }
+    }, 
+    "के_समान": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 6
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "k7pu": {
+            "name": "saadrishya-deshadhikarana", 
+            "count": 1
+        }
+    }, 
+    "पहले": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 161
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 3
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_ऊपर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 8
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 4
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 3
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "से_पीछे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "rd": {
+            "name": "direction", 
+            "count": 1
+        }
+    }, 
+    "के_आगे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 6
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_मद्देनज़र": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 5
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "के_नज़दीक": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_अतिरिक्‍त": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "पीछे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 11
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }
+    }, 
+    "के_समीप": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 8
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_अनुकूल": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "के_भीतर_की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "परिणामस्वरूप": {
+        "rh": {
+            "name": "hetu", 
+            "count": 2
+        }
+    }, 
+    "के_चलते": {
+        "rh": {
+            "name": "hetu", 
+            "count": 38
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "समेत": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 50
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 43
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 14
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 5
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 3
+        }, 
+        "ras-k7": {
+            "name": "saha-adhikarana", 
+            "count": 1
+        }, 
+        "ras-pof": {
+            "name": "saha-kriyamula", 
+            "count": 1
+        }, 
+        "ras-r6": {
+            "name": "saha-shashthi", 
+            "count": 1
+        }
+    }, 
+    "के_एवज_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "लिए": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 141
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k4a": {
+            "name": "anubhava-karta", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_आधार_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 6
+        }
+    }, 
+    "के_समय_पर": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }
+    }, 
+    "के_अंदर_की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "के_ऊपर_का": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "द्वारा": {
+        "k1": {
+            "name": "karta", 
+            "count": 296
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 41
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 29
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 19
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 11
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 3
+        }, 
+        "r6-k1": {
+            "name": "karta_of_complex_predicate", 
+            "count": 1
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "jk1": {
+            "name": "causee", 
+            "count": 1
+        }, 
+        "mk1": {
+            "name": "madhyastha-karta", 
+            "count": 1
+        }
+    }, 
+    "वालों_द्वारा": {
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }
+    }, 
+    "के_आसपास": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 7
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "से_पूर्व": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 14
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "के_जैसा": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 1
+        }
+    }, 
+    "सरीखी": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }
+    }, 
+    "वाले_समय_में": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "हेतु": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1
+        }
+    }, 
+    "के_विरूद्ध": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "सी": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "जैसी": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 13
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 9
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 6
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 4
+        }, 
+        "k7u": {
+            "name": "saadrishya-adhikarana", 
+            "count": 1
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "की_वजह_से": {
+        "rh": {
+            "name": "hetu", 
+            "count": 58
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 4
+        }
+    }, 
+    "की_वजह": {
+        "rh": {
+            "name": "hetu", 
+            "count": 2
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "जैसे": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 48
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 23
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 7
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 4
+        }, 
+        "k7u": {
+            "name": "saadrishya-adhikarana", 
+            "count": 3
+        }, 
+        "k7pu": {
+            "name": "saadrishya-deshadhikarana", 
+            "count": 1
+        }
+    }, 
+    "सरीखा": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 1
+        }
+    }, 
+    "के_बल_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }
+    }, 
+    "के_नाते": {
+        "rh": {
+            "name": "hetu", 
+            "count": 3
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_विरोधस्वरूप": {
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }
+    }, 
+    "ज़रिए": {
+        "k3": {
+            "name": "karana", 
+            "count": 1
+        }
+    }, 
+    "ओर": {
+        "rd": {
+            "name": "direction", 
+            "count": 9
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 1
+        }
+    }, 
+    "की_तरफ़": {
+        "rd": {
+            "name": "direction", 
+            "count": 1
+        }
+    }, 
+    "से_नीचे": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "वाले_को": {
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }
+    }, 
+    "चलते": {
+        "rh": {
+            "name": "hetu", 
+            "count": 12
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 6
+        }
+    }, 
+    "के_रुप_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }
+    }, 
+    "के_मुकाबले": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 14
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 5
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 3
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "k3u": {
+            "name": "saadrishya-karana", 
+            "count": 1
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 1
+        }
+    }, 
+    "के_समय_में": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }
+    }, 
+    "तक_से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }
+    }, 
+    "के_पीछे_से": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बदले_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }
+    }, 
+    "सहित": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 27
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 14
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 9
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 7
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }, 
+        "ras-k7": {
+            "name": "saha-adhikarana", 
+            "count": 1
+        }, 
+        "ras-k7p": {
+            "name": "saha-deshaadhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_अंतर्गत": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 7
+        }
+    }, 
+    "के_बाद_में": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "से_दूर": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }
+    }, 
+    "तक_के_लिए": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 8
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 5
+        }
+    }, 
+    "के_बजाय": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 10
+        }, 
+        "ras-neg": {
+            "name": "Negation", 
+            "count": 8
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_बहाने": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }
+    }, 
+    "वालों_को": {
+        "k4": {
+            "name": "sampradana", 
+            "count": 9
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 3
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 2
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "बीच": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "माध्यम_से": {
+        "k3": {
+            "name": "karana", 
+            "count": 1
+        }
+    }, 
+    "मद्देनज़र": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }
+    }, 
+    "के_समक्ष": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 35
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 1
+        }
+    }, 
+    "के_लिये": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1
+        }
+    }, 
+    "पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2426
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 615
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 102
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 59
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 54
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 33
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 27
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 18
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 16
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 11
+        }, 
+        "main": {
+            "name": "main", 
+            "count": 6
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 6
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 3
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 2
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 2
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 1
+        }
+    }, 
+    "की_बजाए": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "वालों_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 8
+        }
+    }, 
+    "के_खिलाफ": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 178
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 20
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 3
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }
+    }, 
+    "गिर्द": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_नजदीक": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 5
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "की_अपेक्षा": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 3
+        }, 
+        "k4u": {
+            "name": "saadrishya-sampradana", 
+            "count": 1
+        }
+    }, 
+    "की_तरह": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 20
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 12
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 6
+        }, 
+        "k7u": {
+            "name": "saadrishya-adhikarana", 
+            "count": 3
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }, 
+        "k7tu": {
+            "name": "saadrishya-kaladhikarana", 
+            "count": 2
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }, 
+        "ras-k4": {
+            "name": "saha-sampradana", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }, 
+        "k7pu": {
+            "name": "saadrishya-deshadhikarana", 
+            "count": 1
+        }, 
+        "k4u": {
+            "name": "saadrishya-sampradana", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "rtu": {
+            "name": "saadrishya-tadarthya", 
+            "count": 1
+        }
+    }, 
+    "के_कारण": {
+        "rh": {
+            "name": "hetu", 
+            "count": 209
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 17
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "से_पहले": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 91
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_माध्यम_से": {
+        "k3": {
+            "name": "karana", 
+            "count": 3
+        }
+    }, 
+    "वालों_के_विरुद्ध": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "के_पास_से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 4
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "से_बाहर": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 20
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 7
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 4
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 1
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_हिसाब_से": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_मुताबिक़": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "की_तरफ": {
+        "rd": {
+            "name": "direction", 
+            "count": 10
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "बाद": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 225
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 5
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "वालों": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "जरिये": {
+        "k3": {
+            "name": "karana", 
+            "count": 1
+        }
+    }, 
+    "के_अंदर": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 18
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 15
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 5
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 4
+        }
+    }, 
+    "संबधी": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "गैलयां": {
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 1
+        }
+    }, 
+    "के_बाद_की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "से_अलग": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_सिलसिले_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_वास्ते": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 3
+        }
+    }, 
+    "वाले_के_लिए": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 2
+        }
+    }, 
+    "से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 1037
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 445
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 443
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 426
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 299
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 280
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 236
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 231
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 193
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 165
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 165
+        }, 
+        "rsp": {
+            "name": "duratives", 
+            "count": 120
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 61
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 54
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 46
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 45
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 41
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 15
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 11
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 10
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 7
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 6
+        }, 
+        "rd": {
+            "name": "direction", 
+            "count": 6
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 5
+        }, 
+        "k2g": {
+            "name": "secondary-karma", 
+            "count": 5
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 4
+        }, 
+        "jk1": {
+            "name": "causee", 
+            "count": 3
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 3
+        }, 
+        "k4a": {
+            "name": "anubhava-karta", 
+            "count": 3
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 2
+        }, 
+        "k7u": {
+            "name": "saadrishya-adhikarana", 
+            "count": 2
+        }, 
+        "ras-r6-k2": {
+            "name": "ras-r6-k2", 
+            "count": 2
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 2
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 1
+        }, 
+        "ras-rt": {
+            "name": "saha-purpose", 
+            "count": 1
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "ras-pof": {
+            "name": "saha-kriyamula", 
+            "count": 1
+        }, 
+        "ras-k4a": {
+            "name": "saha-anubhavakarta", 
+            "count": 1
+        }
+    }, 
+    "के_परिणामस्वरूप": {
+        "rh": {
+            "name": "hetu", 
+            "count": 5
+        }
+    }, 
+    "से_पहले_तक": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }
+    }, 
+    "विपरीत": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_विपरीत": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "बगल": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "के_मध्‍य_में": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_समानांतर": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "की_बाबत": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_संबंध": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बीच_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 5
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_पास": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 68
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 46
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 6
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 5
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 2
+        }
+    }, 
+    "के_मद्देजनर": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }
+    }, 
+    "के_अनुसार": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 155
+        }
+    }, 
+    "वाले_ने": {
+        "k1": {
+            "name": "karta", 
+            "count": 2
+        }
+    }, 
+    "के_ख़िलाफ़": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 6
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "अनुसार": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 3
+        }
+    }, 
+    "के_मद्देनजर": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 27
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 4
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "मुताबिक": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 13
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "तहत": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 31
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_बाद_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "के_पूर्व": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_तत्वावधान_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "जगह": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "तक_का": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 11
+        }, 
+        "r6-k2": {
+            "name": "karma_of_complex_predicate", 
+            "count": 2
+        }
+    }, 
+    "वक्त": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 5
+        }
+    }, 
+    "की_भांति": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 2
+        }
+    }, 
+    "के_बदले": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4214
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2863
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 694
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 267
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 144
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 132
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 23
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 18
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 14
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 7
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 7
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 5
+        }, 
+        "rd": {
+            "name": "direction", 
+            "count": 4
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 4
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 3
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 2
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 2
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 1
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 1
+        }
+    }, 
+    "की_तुलना_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 11
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 3
+        }, 
+        "k7tu": {
+            "name": "saadrishya-kaladhikarana", 
+            "count": 1
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 1
+        }
+    }, 
+    "के_तौर_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 22
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 2
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "आसपास": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_प्रति": {
+        "rd": {
+            "name": "direction", 
+            "count": 45
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 4
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 2
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_सिवा": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_तहत": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 128
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 6
+        }
+    }, 
+    "विरोध_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_अंर्तगत": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }
+    }, 
+    "कारण": {
+        "rh": {
+            "name": "hetu", 
+            "count": 15
+        }
+    }, 
+    "के_बावजूद": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 66
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 3
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "तरह": {
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 2
+        }
+    }, 
+    "करीब": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "साथ": {
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 60
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 38
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 12
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 7
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 4
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }, 
+        "ras-k4": {
+            "name": "saha-sampradana", 
+            "count": 1
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 1
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }
+    }, 
+    "के_सामने": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 46
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 18
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 4
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_बराबर": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 2
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "के_मुताबिक": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 269
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_हवाले_से": {
+        "k3": {
+            "name": "karana", 
+            "count": 4
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 4
+        }, 
+        "rd": {
+            "name": "direction", 
+            "count": 2
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_निकट_का": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "से_ऊपर_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "तक_के_बीच": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बूते_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "नजदीक": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "वालों_के_लिए": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 4
+        }
+    }, 
+    "में_से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 37
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 14
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 4
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 3
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "वालों_से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 1
+        }
+    }, 
+    "का": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2032
+        }, 
+        "r6-k2": {
+            "name": "karma_of_complex_predicate", 
+            "count": 1064
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 301
+        }, 
+        "r6-k1": {
+            "name": "karta_of_complex_predicate", 
+            "count": 179
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 143
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 11
+        }, 
+        "r6v": {
+            "name": "kA-relation-between-a-noun-and-a-verb", 
+            "count": 8
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 4
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 4
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 4
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 3
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 2
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "वालों_की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 5
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "वालों_ने": {
+        "k1": {
+            "name": "karta", 
+            "count": 2
+        }
+    }, 
+    "वालों_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2
+        }
+    }, 
+    "के_बजाए": {
+        "ras-neg": {
+            "name": "Negation", 
+            "count": 4
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_बीच": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 154
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 100
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 21
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 18
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 4
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 1
+        }
+    }, 
+    "अगले": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "से_बाहर_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "नीचे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 6
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }
+    }, 
+    "अलावा": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 112
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 7
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 2
+        }
+    }, 
+    "के_संबंध_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 29
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_बाद_से": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 17
+        }, 
+        "rsp": {
+            "name": "duratives", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_नीचे": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 3
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }
+    }, 
+    "के_सौजन्य_से": {
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }
+    }, 
+    "के_जरिए": {
+        "k3": {
+            "name": "karana", 
+            "count": 81
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 6
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }
+    }, 
+    "ख़िलाफ़": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "बकौल": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 2
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "वाले": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 380
+        }, 
+        "nmod__k1inv": {
+            "name": "modifier-karta", 
+            "count": 15
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 13
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 11
+        }, 
+        "nmod__k2inv": {
+            "name": "modifier-karma", 
+            "count": 6
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "ras-neg": {
+            "name": "Negation", 
+            "count": 1
+        }, 
+        "nmod__relc": {
+            "name": "modifier_relative_clause", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }, 
+        "nmod__pofinv": {
+            "name": "modifier-kriyamula", 
+            "count": 1
+        }
+    }, 
+    "वाली": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 217
+        }, 
+        "nmod__k1inv": {
+            "name": "modifier-karta", 
+            "count": 12
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 11
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2
+        }, 
+        "nmod__k2inv": {
+            "name": "modifier-karma", 
+            "count": 2
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_दौरान": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 293
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "बाबत": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 5
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_लिहाज_से": {
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "वाले_के_खिलाफ": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "के_पीछे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 23
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 3
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "के_उलट": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }
+    }, 
+    "के_वक्त": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 10
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "ने": {
+        "k1": {
+            "count": 4950, 
+            "name": "karta"
+        }, 
+        "ccof": {
+            "count": 148, 
+            "name": "sentential-clause"
+        }, 
+        "pk1": {
+            "count": 3, 
+            "name": "causee"
+        }, 
+        "r6": {
+            "count": 2, 
+            "name": "Shashsthi"
+        }, 
+        "k2": {
+            "count": 1, 
+            "name": "karma"
+        }, 
+        "r6-k1": {
+            "count": 1, 
+            "name": "karta_of_complex_predicate"
+        }
+    }, 
+    "के_अतंर्गत": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बाबत": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "वाला": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 38
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 7
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 4
+        }, 
+        "nmod__k1inv": {
+            "name": "modifier-karta", 
+            "count": 2
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 2
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "nmod__k2inv": {
+            "name": "modifier-karma", 
+            "count": 1
+        }
+    }, 
+    "के_अनुरूप": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 7
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "बदले": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 3
+        }
+    }, 
+    "के_अलावा": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 69
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 19
+        }
+    }, 
+    "के_आसपास_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "स्वरूप": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "तक": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 445
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 79
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 33
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 20
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 17
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 11
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 10
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 9
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 8
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 7
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 6
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 5
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 3
+        }, 
+        "rs": {
+            "name": "relaton-samanadhikarana", 
+            "count": 2
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 2
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }
+    }, 
+    "के_मध्‍य": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "तक_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }
+    }, 
+    "के_बीच_से": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "दूर": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 7
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 7
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 4
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "के_करीब": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 5
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }
+    }, 
+    "तरफ़": {
+        "rd": {
+            "name": "direction", 
+            "count": 1
+        }
+    }, 
+    "बावजूद": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 10
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 4
+        }
+    }, 
+    "की_ओर_से": {
+        "rd": {
+            "name": "direction", 
+            "count": 92
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 20
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 14
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 5
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 5
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 3
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 2
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "अंदर": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "निकट": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बूते": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_मध्य_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_पश्चात": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 5
+        }
+    }, 
+    "ऊपर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "वालों_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }
+    }, 
+    "संबंधी": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 7
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 3
+        }
+    }, 
+    "सरीखे": {
+        "k7pu": {
+            "name": "saadrishya-deshadhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_ऊपर_से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 3
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "उलट": {
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "की_तर्ज_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "वालों_का": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }
+    }, 
+    "की_हैसियत_से": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "बनाम": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_भीतर": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 16
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 7
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 5
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 2
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_खिलाफ़": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 17
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "rs": {
+            "name": "relaton-samanadhikarana", 
+            "count": 1
+        }
+    }, 
+    "वाले_के_पास": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "से_आगे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_समय": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 42
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 3
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "अतिरिक्त": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_मुक़ाबले": {
+        "k7u": {
+            "name": "saadrishya-adhikarana", 
+            "count": 1
+        }
+    }, 
+    "समान": {
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 1
+        }
+    }, 
+    "संग": {
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 1
+        }
+    }, 
+    "के_बीचोंबीच": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "वजह_से": {
+        "rh": {
+            "name": "hetu", 
+            "count": 9
+        }
+    }, 
+    "के_साथ": {
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 320
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 79
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 50
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 47
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 12
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 8
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 7
+        }, 
+        "ras-k7": {
+            "name": "saha-adhikarana", 
+            "count": 6
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 3
+        }, 
+        "ras-pof": {
+            "name": "saha-kriyamula", 
+            "count": 3
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 2
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 2
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }, 
+        "ras-k4": {
+            "name": "saha-sampradana", 
+            "count": 1
+        }, 
+        "ras-r6": {
+            "name": "saha-shashthi", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "ras-k7p": {
+            "name": "saha-deshaadhikarana", 
+            "count": 1
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }, 
+        "k4a": {
+            "name": "anubhava-karta", 
+            "count": 1
+        }, 
+        "nmod__k1inv": {
+            "name": "modifier-karta", 
+            "count": 1
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "ras__k7": {
+            "name": "ras__k7", 
+            "count": 1
+        }
+    }, 
+    "के_फलस्वरूप": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_मुकाबले_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "से_ऊपर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_ज़रिए": {
+        "k3": {
+            "name": "karana", 
+            "count": 6
+        }
+    }, 
+    "वालों_के_खिलाफ़": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_विरोध_में": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 3
+        }
+    }, 
+    "तक_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 6
+        }
+    }, 
+    "के_बीच_के": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "समक्ष": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }
+    }, 
+    "से_परे": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "लायक": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }, 
+    "की_तरफ_से": {
+        "rd": {
+            "name": "direction", 
+            "count": 15
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_बीच_की": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "पर_से": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }
+    }, 
+    "बतौर": {
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 3
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 3
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 3
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 3
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 1
+        }
+    }, 
+    "वाले_के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }
+    }, 
+    "के_बराबर_का": {
+        "r6-k2": {
+            "name": "karma_of_complex_predicate", 
+            "count": 1
+        }
+    }, 
+    "के_बाद": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 567
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 14
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 4
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "rs": {
+            "name": "relaton-samanadhikarana", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }
+    }, 
+    "तक_की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 8
+        }, 
+        "r6-k2": {
+            "name": "karma_of_complex_predicate", 
+            "count": 4
+        }, 
+        "r6-k1": {
+            "name": "karta_of_complex_predicate", 
+            "count": 3
+        }
+    }, 
+    "के_विरुद्ध": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 5
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "वाले_के_बारे_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "बाहर": {
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "प्रति": {
+        "rd": {
+            "name": "direction", 
+            "count": 2
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 1
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1
+        }
+    }, 
+    "के_मुताबिक़": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 10
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "जैसा": {
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 6
+        }, 
+        "k2u": {
+            "name": "saadrishya-karma", 
+            "count": 3
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 2
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }, 
+        "k7pu": {
+            "name": "saadrishya-deshadhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_अधीन": {
+        "k7a": {
+            "name": "according-to", 
+            "count": 3
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "पूर्व": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 27
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 2
+        }, 
+        "sent-adv": {
+            "name": "sentential-adverb", 
+            "count": 1
+        }
+    }, 
+    "सामने": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 5
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_पहले": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 7
+        }
+    }, 
+    "वाले_पर": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "की_बजाय": {
+        "ras-neg": {
+            "name": "Negation", 
+            "count": 4
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_रूप_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 106
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 5
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 2
+        }, 
+        "adv": {
+            "name": "kriyavisheshana", 
+            "count": 1
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 1
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }
+    }, 
+    "पश्चात": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "की_खातिर": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 3
+        }
+    }, 
+    "से_पहले_की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2
+        }
+    }, 
+    "वाले_के_खिलाफ़": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_लिए": {
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1584
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 76
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 13
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 12
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 10
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 9
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 6
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 4
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 3
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 2
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 1
+        }
+    }, 
+    "के_नीचे_से": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }
+    }, 
+    "से_लेकर": {
+        "rsp": {
+            "name": "duratives", 
+            "count": 16
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 4
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 3
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "के_अंदर_से": {
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }
+    }, 
+    "खिलाफ": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 33
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 2
+        }, 
+        "k7a": {
+            "name": "according-to", 
+            "count": 1
+        }
+    }, 
+    "पास": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 31
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 9
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 2
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }
+    }, 
+    "के_खिलाफ़": {
+        "k2": {
+            "name": "karma", 
+            "count": 1
+        }
+    }, 
+    "के_मध्य_तक": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "की_ओर": {
+        "rd": {
+            "name": "direction", 
+            "count": 65
+        }, 
+        "k3": {
+            "name": "karana", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_अतिरिक्त": {
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 3
+        }
+    }, 
+    "आगे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 2
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 2
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 1
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "फलस्वरूप": {
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }
+    }, 
+    "को": {
+        "k2": {
+            "name": "karma", 
+            "count": 2781
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 1454
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1009
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 369
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 290
+        }, 
+        "k4a": {
+            "name": "anubhava-karta", 
+            "count": 243
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 95
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 15
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 13
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 12
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 5
+        }, 
+        "jk1": {
+            "name": "causee", 
+            "count": 4
+        }, 
+        "k2g": {
+            "name": "secondary-karma", 
+            "count": 4
+        }, 
+        "k2s": {
+            "name": "karma_samAmAdhikarana", 
+            "count": 3
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 3
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "nmod__emph": {
+            "name": "modifier-emphatic", 
+            "count": 2
+        }, 
+        "r6-k1": {
+            "name": "karta_of_complex_predicate", 
+            "count": 1
+        }, 
+        "rs": {
+            "name": "relaton-samanadhikarana", 
+            "count": 1
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 1
+        }, 
+        "k5": {
+            "name": "apadana", 
+            "count": 1
+        }, 
+        "nmod__k2inv": {
+            "name": "modifier-karma", 
+            "count": 1
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बाहर": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 17
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 1
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "के_निकट": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 10
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 4
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 1
+        }
+    }, 
+    "मध्य": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 2
+        }
+    }, 
+    "मे": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "की": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 4879
+        }, 
+        "r6-k2": {
+            "name": "karma_of_complex_predicate", 
+            "count": 955
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 301
+        }, 
+        "r6-k1": {
+            "name": "karta_of_complex_predicate", 
+            "count": 191
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 33
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 8
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 7
+        }, 
+        "r6v": {
+            "name": "kA-relation-between-a-noun-and-a-verb", 
+            "count": 6
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 5
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 4
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 3
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 2
+        }, 
+        "k1u": {
+            "name": "saadrishya-karta", 
+            "count": 2
+        }, 
+        "nmod__k1inv": {
+            "name": "modifier-karta", 
+            "count": 2
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 2
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 1
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 1
+        }
+    }, 
+    "तले": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 2
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "की_बदौलत": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "के": {
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 6379
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 323
+        }, 
+        "k1": {
+            "name": "karta", 
+            "count": 160
+        }, 
+        "r6-k2": {
+            "name": "karma_of_complex_predicate", 
+            "count": 87
+        }, 
+        "r6-k1": {
+            "name": "karta_of_complex_predicate", 
+            "count": 42
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 34
+        }, 
+        "ras-neg": {
+            "name": "Negation", 
+            "count": 29
+        }, 
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 17
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 10
+        }, 
+        "r6v": {
+            "name": "kA-relation-between-a-noun-and-a-verb", 
+            "count": 8
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 7
+        }, 
+        "jjmod": {
+            "name": "Adjective_Modifier", 
+            "count": 6
+        }, 
+        "lwg__psp": {
+            "name": "postposition", 
+            "count": 6
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 6
+        }, 
+        "rt": {
+            "name": "tadarthya", 
+            "count": 5
+        }, 
+        "rs": {
+            "name": "relaton-samanadhikarana", 
+            "count": 3
+        }, 
+        "k7": {
+            "name": "adhikarana", 
+            "count": 3
+        }, 
+        "nmod__adj1": {
+            "name": "Adjective", 
+            "count": 2
+        }, 
+        "ras-k1": {
+            "name": "saha-karta", 
+            "count": 1
+        }, 
+        "ras-k2": {
+            "name": "saha-karma", 
+            "count": 1
+        }, 
+        "pof": {
+            "name": "kriyamula", 
+            "count": 1
+        }, 
+        "k2p": {
+            "name": "destination", 
+            "count": 1
+        }, 
+        "rd": {
+            "name": "direction", 
+            "count": 1
+        }, 
+        "k4": {
+            "name": "sampradana", 
+            "count": 1
+        }, 
+        "k1s": {
+            "name": "karta_samAmAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "से_बाहर_तक": {
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_बारे_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 197
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 20
+        }, 
+        "k2": {
+            "name": "karma", 
+            "count": 3
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 3
+        }, 
+        "r6": {
+            "name": "Shashsthi", 
+            "count": 1
+        }, 
+        "k7p": {
+            "name": "deshAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "जरिए": {
+        "k3": {
+            "name": "karana", 
+            "count": 11
+        }, 
+        "rh": {
+            "name": "hetu", 
+            "count": 1
+        }
+    }, 
+    "की_तरफ़_से": {
+        "rd": {
+            "name": "direction", 
+            "count": 1
+        }
+    }, 
+    "वालों_के_बारे_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 1
+        }
+    }, 
+    "बारे_में": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 105
+        }
+    }, 
+    "समय": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 14
+        }, 
+        "vmod": {
+            "name": "verb-modifier", 
+            "count": 3
+        }
+    }, 
+    "के_समय_से": {
+        "k7t": {
+            "name": "kAlAdhikarana", 
+            "count": 1
+        }
+    }, 
+    "के_जरिये": {
+        "k3": {
+            "name": "karana", 
+            "count": 19
+        }, 
+        "ccof": {
+            "name": "sentential-clause", 
+            "count": 2
+        }
+    }, 
+    "की_जगह": {
+        "k7": {
+            "name": "adhikarana", 
+            "count": 8
+        }, 
+        "nmod": {
+            "name": "noun-modifier", 
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,105 @@
+/* purple shades - rgba(112,41,99,0.9) see wikipedia shades of purple*/
+/* red shade - not decided yet, but something like rgba(169,17,1,0.9)*/
+/* saint purple - #9300c5*/
+/* shades of blue and green will also work for the theme. Experiment with them */
+/* metallic grey - #39424e */ 
+/* Dodger Blue - rgba(30,144,255,0.9) */
+
+@font-face {
+	font-family:'Myriad Pro';
+	src: url('myriad-pro.ttf') format('truetype');
+}
+
+
+textarea,input {
+	box-shadow: none !important;
+}
+
+.alert-info {
+	font-weight: 300;
+	font-style: normal;
+	background-color: rgba(244,244,244,1);
+	color:rgba(0,0,0,0.70);
+	font-size:20px;
+	line-height:1.2;
+}
+
+.navbar {
+	border-style:none none solid none;
+	border-color: rgba(0,0,0,0.08);
+	border-radius: 0px;
+	background-color: rgba(255,255,255,0.6) !important;
+}
+
+#sidebar-wrapper {
+	background-color:rgba(57, 66, 78, 1);
+}
+
+.nav_link {
+	font-family:'Myriad Pro';
+	font-size:17px;
+	font-weight:300;
+	height:60px !important;
+}
+
+.nav_link > a {
+	color:rgba(255, 255, 255, 1);
+}
+
+.btn-primary {
+	background-color:rgba(0,126,229,1);
+    font-size:16px;
+    /*letter-spacing:0.05em;*/
+}
+
+#logo {
+    font-family: 'Myriad Pro';
+	font-weight: 300;
+	font-style: normal;
+	color: rgba(51,51,51,1);
+	letter-spacing: -0.03em;
+	outline:none;
+}
+
+label {
+   font-weight:300;
+   font-size:20px;
+}
+
+body, #fullpage{
+	background-color: rgba(255,255,255,1) !important;
+	font-family:'Myriad Pro';
+}
+
+.name {
+    /* margin-left:25%;
+    padding-top:2%; */
+    background-color:rgba(255, 255, 255, 1) !important;
+    line-height: 0.85;
+    border:none;
+    text-align:center;
+    margin-bottom: 46px;
+}
+
+h1 {
+    padding-left:0px;
+	font-size:64px;
+	font-weight: 300;
+	font-style: normal;
+	color: rgba(51,51,51,1);
+	letter-spacing: -0.03em;
+	line-height: inherit;
+}
+
+h4 {
+	padding-left: 18px;
+	color:rgba(51,51,51,0.7) !important;
+	font-size:30px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: -0.01em;
+}
+
+.switchery {
+	vertical-align: text-bottom;
+}

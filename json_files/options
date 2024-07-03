@@ -1,0 +1,1742 @@
+{
+	"WQ":	{
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:147
+		},
+		"mod__wq"	:	{
+			"name"	:"modifier_question",
+			"count"	:72
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:23
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:21
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:16
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:13
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:11
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:9
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:5
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:4
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:3
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:1
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:1
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:1
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:1
+		},
+		"r6v"	:	{
+			"name"	:"kA-relation-between-a-noun-and-a-verb",
+			"count"	:1
+		}
+	},
+	"NEG":	{
+		"lwg__neg"	:	{
+			"name"	:"NEG",
+			"count"	:1945
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:92
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:4
+		},
+		"ras-neg"	:	{
+			"name"	:"Negation",
+			"count"	:2
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:1
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:1
+		}
+	},
+	"QCC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:628
+		}
+	},
+	"DEM":	{
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:4065
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:2
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:1
+		}
+	},
+	"JJ":	{
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:9445
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:4017
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:1321
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:914
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:427
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:296
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:98
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:56
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:28
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:18
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:13
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:13
+		},
+		"nmod__k1inv"	:	{
+			"name"	:"modifier-karta",
+			"count"	:5
+		},
+		"k2g"	:	{
+			"name"	:"secondary-karma",
+			"count"	:4
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:2
+		},
+		"nmod__k2inv"	:	{
+			"name"	:"modifier-karma",
+			"count"	:2
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:1
+		},
+		"rsym"	:	{
+			"name"	:"symbol",
+			"count"	:1
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:1
+		},
+		"rbmod"	:	{
+			"name"	:"adverb-modifier",
+			"count"	:1
+		}
+	},
+	"NULL":	{
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:1
+		}
+	},
+	"CCC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:10
+		}
+	},
+	"RP":	{
+		"lwg__rp"	:	{
+			"name"	:"adverb",
+			"count"	:4171
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:4
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:2
+		}
+	},
+	"NN":	{
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:9347
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:8115
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:7700
+		},
+        "pof__cn"	:	{
+			"name"	:"Compound Noun",
+			"count"	:-1
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:7195
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:6323
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:3811
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:2706
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:2451
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:2275
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:1294
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:1130
+		},
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:885
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:853
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:807
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:671
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:641
+		},
+		"rh"	:	{
+			"name"	:"hetu",
+			"count"	:537
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:499
+		},
+		"k7a"	:	{
+			"name"	:"according-to",
+			"count"	:470
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:408
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:372
+		},
+		"ras-k1"	:	{
+			"name"	:"saha-karta",
+			"count"	:351
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:303
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:205
+		},
+		"k4a"	:	{
+			"name"	:"anubhava-karta",
+			"count"	:166
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:146
+		},
+		"k2p"	:	{
+			"name"	:"destination",
+			"count"	:134
+		},
+		"ras-k2"	:	{
+			"name"	:"saha-karma",
+			"count"	:93
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:60
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:50
+		},
+		"ras-neg"	:	{
+			"name"	:"Negation",
+			"count"	:44
+		},
+		"rsp"	:	{
+			"name"	:"duratives",
+			"count"	:34
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:32
+		},
+		"rbmod"	:	{
+			"name"	:"adverb-modifier",
+			"count"	:29
+		},
+		"k2g"	:	{
+			"name"	:"secondary-karma",
+			"count"	:23
+		},
+		"k2u"	:	{
+			"name"	:"saadrishya-karma",
+			"count"	:22
+		},
+		"r6v"	:	{
+			"name"	:"kA-relation-between-a-noun-and-a-verb",
+			"count"	:16
+		},
+		"ras-k7"	:	{
+			"name"	:"saha-adhikarana",
+			"count"	:8
+		},
+		"k7u"	:	{
+			"name"	:"saadrishya-adhikarana",
+			"count"	:6
+		},
+		"rad"	:	{
+			"name"	:"address-terms",
+			"count"	:5
+		},
+		"jk1"	:	{
+			"name"	:"causee",
+			"count"	:5
+		},
+		"ras-pof"	:	{
+			"name"	:"saha-kriyamula",
+			"count"	:5
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:3
+		},
+		"pk1"	:	{
+			"name"	:"causee",
+			"count"	:3
+		},
+		"nmod__k1inv"	:	{
+			"name"	:"modifier-karta",
+			"count"	:3
+		},
+		"ras-k4"	:	{
+			"name"	:"saha-sampradana",
+			"count"	:2
+		},
+		"k7tu"	:	{
+			"name"	:"saadrishya-kaladhikarana",
+			"count"	:2
+		},
+		"k4u"	:	{
+			"name"	:"saadrishya-sampradana",
+			"count"	:1
+		},
+		"ras-r6"	:	{
+			"name"	:"saha-shashthi",
+			"count"	:1
+		},
+		"ras-r6-k2"	:	{
+			"name"	:"ras-r6-k2",
+			"count"	:1
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:1
+		},
+		"rtu"	:	{
+			"name"	:"saadrishya-tadarthya",
+			"count"	:1
+		},
+		"nmod__k2inv"	:	{
+			"name"	:"modifier-karma",
+			"count"	:1
+		},
+		"rbmod__relc"	:	{
+			"name"	:"adverb-modifier-relative_clause",
+			"count"	:1
+		},
+		"ras-k4a"	:	{
+			"name"	:"saha-anubhavakarta",
+			"count"	:1
+		},
+		"mk1"	:	{
+			"name"	:"madhyastha-karta",
+			"count"	:1
+		},
+		"ras__k7"	:	{
+			"name"	:"ras__k7",
+			"count"	:1
+		}
+	},
+	"NNC":	{
+		"pof__cn"	:	{
+			"name"	:"compound-noun",
+			"count"	:6334
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:5
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:3
+		}
+	},
+	"VAUX":	{
+		"lwg__vaux"	:	{
+			"name"	:"auxillary",
+			"count"	:13494
+		},
+		"lwg__vaux_cont"	:	{
+			"name"	:"auxillary_continuous",
+			"count"	:5717
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:2
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:2
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:2
+		}
+	},
+	"PRP":	{
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:3713
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:2318
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:1336
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:972
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:839
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:839
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:487
+		},
+		"rh"	:	{
+			"name"	:"hetu",
+			"count"	:374
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:292
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:200
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:185
+		},
+		"k4a"	:	{
+			"name"	:"anubhava-karta",
+			"count"	:160
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:154
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:119
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:108
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:100
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:80
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:72
+		},
+		"k7a"	:	{
+			"name"	:"according-to",
+			"count"	:64
+		},
+		"ras-k1"	:	{
+			"name"	:"saha-karta",
+			"count"	:54
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:51
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:48
+		},
+		"nmod__emph"	:	{
+			"name"	:"modifier-emphatic",
+			"count"	:43
+		},
+		"k2p"	:	{
+			"name"	:"destination",
+			"count"	:36
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:34
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:33
+		},
+		"ras-k2"	:	{
+			"name"	:"saha-karma",
+			"count"	:14
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:14
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:8
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:7
+		},
+		"rsp"	:	{
+			"name"	:"duratives",
+			"count"	:4
+		},
+		"pk1"	:	{
+			"name"	:"causee",
+			"count"	:4
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:4
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:3
+		},
+		"jk1"	:	{
+			"name"	:"causee",
+			"count"	:2
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:2
+		},
+		"r6v"	:	{
+			"name"	:"kA-relation-between-a-noun-and-a-verb",
+			"count"	:2
+		},
+		"ras-k4"	:	{
+			"name"	:"saha-sampradana",
+			"count"	:1
+		},
+		"rbmod"	:	{
+			"name"	:"adverb-modifier",
+			"count"	:1
+		},
+		"ras-neg"	:	{
+			"name"	:"Negation",
+			"count"	:1
+		},
+		"k7u"	:	{
+			"name"	:"saadrishya-adhikarana",
+			"count"	:1
+		}
+	},
+	"RB":	{
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:976
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:189
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:78
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:39
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:13
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:11
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:10
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:7
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:6
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:6
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:3
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:3
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:2
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:1
+		},
+		"vmod__adv"	:	{
+			"name"	:"modifier-kriyavisheshana",
+			"count"	:1
+		},
+		"k7a"	:	{
+			"name"	:"according-to",
+			"count"	:1
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:1
+		},
+		"rbmod"	:	{
+			"name"	:"adverb-modifier",
+			"count"	:1
+		}
+	},
+	"NSTC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:23
+		}
+	},
+	"NST":	{
+		"lwg__psp"	:	{
+			"name"	:"postposition",
+			"count"	:3397
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:260
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:108
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:104
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:58
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:47
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:33
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:24
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:22
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:21
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:13
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:13
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:12
+		},
+		"k2p"	:	{
+			"name"	:"destination",
+			"count"	:10
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:8
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:6
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:4
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:3
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:1
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:1
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:1
+		},
+		"k7tu"	:	{
+			"name"	:"saadrishya-kaladhikarana",
+			"count"	:1
+		}
+	},
+	"NNP":	{
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:4989
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:4505
+		},
+        "pof__cn"	:	{
+			"name"	:"Compound Noun",
+			"count"	:-1
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:3771
+		},
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:2837
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:1498
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:1436
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:793
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:606
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:557
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:537
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:333
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:282
+		},
+		"k2p"	:	{
+			"name"	:"destination",
+			"count"	:261
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:243
+		},
+		"ras-k1"	:	{
+			"name"	:"saha-karta",
+			"count"	:225
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:177
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:162
+		},
+		"k7a"	:	{
+			"name"	:"according-to",
+			"count"	:153
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:118
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:95
+		},
+		"k4a"	:	{
+			"name"	:"anubhava-karta",
+			"count"	:69
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:65
+		},
+		"rsp"	:	{
+			"name"	:"duratives",
+			"count"	:51
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:49
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:40
+		},
+		"ras-k2"	:	{
+			"name"	:"saha-karma",
+			"count"	:32
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:26
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:22
+		},
+		"rh"	:	{
+			"name"	:"hetu",
+			"count"	:14
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:9
+		},
+		"k2u"	:	{
+			"name"	:"saadrishya-karma",
+			"count"	:9
+		},
+		"k2g"	:	{
+			"name"	:"secondary-karma",
+			"count"	:6
+		},
+		"k7pu"	:	{
+			"name"	:"saadrishya-deshadhikarana",
+			"count"	:5
+		},
+		"r6v"	:	{
+			"name"	:"kA-relation-between-a-noun-and-a-verb",
+			"count"	:4
+		},
+		"jk1"	:	{
+			"name"	:"causee",
+			"count"	:3
+		},
+		"k7u"	:	{
+			"name"	:"saadrishya-adhikarana",
+			"count"	:3
+		},
+		"ras-k7p"	:	{
+			"name"	:"saha-deshaadhikarana",
+			"count"	:2
+		},
+		"ras-neg"	:	{
+			"name"	:"Negation",
+			"count"	:2
+		},
+		"undef"	:	{
+			"name"	:"undefined",
+			"count"	:1
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:1
+		},
+		"pk1"	:	{
+			"name"	:"causee",
+			"count"	:1
+		},
+		"ras-r6"	:	{
+			"name"	:"saha-shashthi",
+			"count"	:1
+		},
+		"ras-r6-k2"	:	{
+			"name"	:"ras-r6-k2",
+			"count"	:1
+		},
+		"ras-rt"	:	{
+			"name"	:"saha-purpose",
+			"count"	:1
+		},
+		"k4u"	:	{
+			"name"	:"saadrishya-sampradana",
+			"count"	:1
+		}
+	},
+	"INTF":	{
+		"jjmod__intf"	:	{
+			"name"	:"intensifier",
+			"count"	:345
+		}
+	},
+	"RDP":	{
+		"pof__redup"	:	{
+			"name"	:"reduplication",
+			"count"	:201
+		}
+	},
+	"CC":	{
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:3928
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:2010
+		},
+        "discourse_marker"  :   {
+            "name"  :"Discourse Marker",
+            "count" :-1
+        },
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:1155
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:1124
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:639
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:611
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:528
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:417
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:291
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:197
+		},
+		"rh"	:	{
+			"name"	:"hetu",
+			"count"	:118
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:92
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:91
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:78
+		},
+		"ras-k1"	:	{
+			"name"	:"saha-karta",
+			"count"	:66
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:58
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:45
+		},
+		"nmod__relc"	:	{
+			"name"	:"modifier_relative_clause",
+			"count"	:41
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:39
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:37
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:36
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:28
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:27
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:25
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:18
+		},
+		"k4a"	:	{
+			"name"	:"anubhava-karta",
+			"count"	:15
+		},
+		"ras-k2"	:	{
+			"name"	:"saha-karma",
+			"count"	:14
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:9
+		},
+		"k2u"	:	{
+			"name"	:"saadrishya-karma",
+			"count"	:9
+		},
+		"k7a"	:	{
+			"name"	:"according-to",
+			"count"	:9
+		},
+		"k2p"	:	{
+			"name"	:"destination",
+			"count"	:9
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:7
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:5
+		},
+		"ras-neg"	:	{
+			"name"	:"Negation",
+			"count"	:4
+		},
+		"nmod__k1inv"	:	{
+			"name"	:"modifier-karta",
+			"count"	:4
+		},
+		"k2g"	:	{
+			"name"	:"secondary-karma",
+			"count"	:4
+		},
+		"ras-k4"	:	{
+			"name"	:"saha-sampradana",
+			"count"	:3
+		},
+		"ras-k7"	:	{
+			"name"	:"saha-adhikarana",
+			"count"	:3
+		},
+		"ras-k7p"	:	{
+			"name"	:"saha-deshaadhikarana",
+			"count"	:3
+		},
+		"r6v"	:	{
+			"name"	:"kA-relation-between-a-noun-and-a-verb",
+			"count"	:2
+		},
+		"rbmod__relc"	:	{
+			"name"	:"adverb-modifier-relative_clause",
+			"count"	:2
+		},
+		"k7pu"	:	{
+			"name"	:"saadrishya-deshadhikarana",
+			"count"	:1
+		},
+		"ras-r6"	:	{
+			"name"	:"saha-shashthi",
+			"count"	:1
+		},
+		"k7u"	:	{
+			"name"	:"saadrishya-adhikarana",
+			"count"	:1
+		},
+		"nmod__k2inv"	:	{
+			"name"	:"modifier-karma",
+			"count"	:1
+		},
+		"ras__k7"	:	{
+			"name"	:"ras__k7",
+			"count"	:1
+		},
+		"ras-pof"	:	{
+			"name"	:"saha-kriyamula",
+			"count"	:1
+		}
+	},
+	"VM":	{
+		"main"	:	{
+			"name"	:"main",
+			"count"	:12053
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:9732
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:2205
+		},
+		"nmod__k1inv"	:	{
+			"name"	:"modifier-karta",
+			"count"	:1159
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:1069
+		},
+		"nmod__relc"	:	{
+			"name"	:"modifier_relative_clause",
+			"count"	:984
+		},
+		"rt"	:	{
+			"name"	:"tadarthya",
+			"count"	:913
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:640
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:638
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:561
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:535
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:442
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:392
+		},
+		"nmod__k2inv"	:	{
+			"name"	:"modifier-karma",
+			"count"	:339
+		},
+		"rh"	:	{
+			"name"	:"hetu",
+			"count"	:237
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:70
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:48
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:35
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:33
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:33
+		},
+		"rbmod__relc"	:	{
+			"name"	:"adverb-modifier-relative_clause",
+			"count"	:25
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:20
+		},
+		"ras-k2"	:	{
+			"name"	:"saha-karma",
+			"count"	:18
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:18
+		},
+		"nmod__pofinv"	:	{
+			"name"	:"modifier-kriyamula",
+			"count"	:16
+		},
+		"rsp"	:	{
+			"name"	:"duratives",
+			"count"	:16
+		},
+		"ras-neg"	:	{
+			"name"	:"Negation",
+			"count"	:15
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:13
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:12
+		},
+		"ras-k1"	:	{
+			"name"	:"saha-karta",
+			"count"	:10
+		},
+		"k7a"	:	{
+			"name"	:"according-to",
+			"count"	:6
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:3
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:3
+		},
+		"r6v"	:	{
+			"name"	:"kA-relation-between-a-noun-and-a-verb",
+			"count"	:2
+		},
+		"rad"	:	{
+			"name"	:"address-terms",
+			"count"	:1
+		},
+		"jjmod__relc"	:	{
+			"name"	:"adjective-modifier-relative_clause",
+			"count"	:1
+		},
+		"rbmod"	:	{
+			"name"	:"adverb-modifier",
+			"count"	:1
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:1
+		},
+		"rd"	:	{
+			"name"	:"direction",
+			"count"	:1
+		},
+		"k2g"	:	{
+			"name"	:"secondary-karma",
+			"count"	:1
+		}
+	},
+	"UNK":	{
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:104
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:4
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:3
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:2
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:2
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:1
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:1
+		}
+	},
+	"RBC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:21
+		}
+	},
+	"QFC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:15
+		}
+	},
+	"PRPC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:60
+		}
+	},
+	"SYM":	{
+		"rsym"	:	{
+			"name"	:"symbol",
+			"count"	:20441
+		},
+		"main"	:	{
+			"name"	:"main",
+			"count"	:7
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:6
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:5
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:5
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:4
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:2
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:1
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:1
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:1
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:1
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:1
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:1
+		}
+	},
+	"QC":	{
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:4722
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:64
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:57
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:56
+		},
+		"rsp"	:	{
+			"name"	:"duratives",
+			"count"	:50
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:47
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:42
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:40
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:32
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:24
+		},
+		"k5"	:	{
+			"name"	:"apadana",
+			"count"	:12
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:6
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:6
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:5
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:5
+		},
+		"k1u"	:	{
+			"name"	:"saadrishya-karta",
+			"count"	:4
+		},
+		"rs"	:	{
+			"name"	:"relaton-samanadhikarana",
+			"count"	:3
+		},
+		"k3"	:	{
+			"name"	:"karana",
+			"count"	:2
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:1
+		},
+		"enm"	:	{
+			"name"	:"enumerator",
+			"count"	:1
+		},
+		"k4"	:	{
+			"name"	:"sampradana",
+			"count"	:1
+		},
+		"k3u"	:	{
+			"name"	:"saadrishya-karana",
+			"count"	:1
+		},
+		"k7p"	:	{
+			"name"	:"deshAdhikarana",
+			"count"	:1
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:1
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:1
+		}
+	},
+	"NNPC":	{
+		"pof__cn"	:	{
+			"name"	:"compound-noun",
+			"count"	:12733
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:3
+		}
+	},
+	"INJ":	{
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:2
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:1
+		}
+	},
+	"QF":	{
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:2001
+		},
+        "jjmod__intf"	:	{
+			"name"	:"Intensifier",
+			"count"	:-1
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:102
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:89
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:59
+		},
+		"adv"	:	{
+			"name"	:"kriyavisheshana",
+			"count"	:26
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:13
+		},
+		"vmod"	:	{
+			"name"	:"verb-modifier",
+			"count"	:10
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:9
+		},
+		"k2s"	:	{
+			"name"	:"karma_samAmAdhikarana",
+			"count"	:8
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:7
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:6
+		},
+		"jjmod"	:	{
+			"name"	:"Adjective_Modifier",
+			"count"	:6
+		},
+		"r6-k2"	:	{
+			"name"	:"karma_of_complex_predicate",
+			"count"	:5
+		},
+		"r6-k1"	:	{
+			"name"	:"karta_of_complex_predicate",
+			"count"	:2
+		},
+		"k7"	:	{
+			"name"	:"adhikarana",
+			"count"	:1
+		},
+		"k7t"	:	{
+			"name"	:"kAlAdhikarana",
+			"count"	:1
+		}
+	},
+	"PSP":	{
+		"lwg__psp"	:	{
+			"name"	:"postposition",
+			"count"	:59604
+		},
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:30
+		},
+		"psp__cl"	:	{
+			"name"	:"clause_postposition",
+			"count"	:8
+		},
+		"r6"	:	{
+			"name"	:"Shashsthi",
+			"count"	:4
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:2
+		},
+		"pof"	:	{
+			"name"	:"kriyamula",
+			"count"	:1
+		}
+	},
+	"JJC":	{
+		"mod"	:	{
+			"name"	:"modifier",
+			"count"	:334
+		},
+		"k2"	:	{
+			"name"	:"karma",
+			"count"	:1
+		}
+	},
+	"QO":	{
+		"nmod__adj1"	:	{
+			"name"	:"Adjective",
+			"count"	:450
+		},
+		"ccof"	:	{
+			"name"	:"sentential-clause",
+			"count"	:17
+		},
+		"k1"	:	{
+			"name"	:"karta",
+			"count"	:4
+		},
+		"nmod"	:	{
+			"name"	:"noun-modifier",
+			"count"	:2
+		},
+		"k1s"	:	{
+			"name"	:"karta_samAmAdhikarana",
+			"count"	:1
+		},
+		"enm"	:	{
+			"name"	:"enumerator",
+			"count"	:1
+		},
+		"sent-adv"	:	{
+			"name"	:"sentential-adverb",
+			"count"	:1
+		}
+	}
+}

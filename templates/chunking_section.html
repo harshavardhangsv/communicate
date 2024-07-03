@@ -1,0 +1,26 @@
+<div class="section" id="chunking_section">
+    <div class="row section-header">
+    <h2>
+        Tag Word Chunks
+    </h2>
+    </div>
+<!--    <div class="row section-alert alert-info alert-dismissible">
+        - A Chunk is defined as a collection of words that form a phrase. <br>
+        - To mark a chunk, pick it's constituent wors and then click join. <BR>
+        - Repeat this until you've marked all the chunks. <BR>
+        - Need help? We've got you covered. Head over <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here</a> to see an example.<BR>
+    </div> -->
+    <div class="form-group" id="chnk_text">
+    </div>
+    <div class="row">
+        <div class="col-md-7 col-md-offset-2">
+            <button type="submit" class="btn btn-danger" id="split-chunk">Split</button>
+            <button type="submit" class="btn btn-warning" id="join-chunk" data-jointype="normal">Join</button>
+            <button type="submit" class="btn btn-default" id="join-chunk" data-jointype="compoundnoun">Join as Compound Noun</button>
+            <button type="submit" class="btn btn-default" id="join-chunk" data-jointype="complexpredicate">Join as Complex Predicate</button>
+        </div>
+        <div class="col-md-2">
+            <button id="chnk-submit" class="btn btn-primary section-submit" type="submit" data-uid="chnk">Submit</button>
+        </div>
+    </div>
+</div>

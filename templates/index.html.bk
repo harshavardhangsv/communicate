@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="hi">
+
+<head>
+<title>Converting Natural text to Controlled text</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-tour.min.css">
+<link rel="stylesheet" href="css/toastr.min.css">
+<link rel="stylesheet" href="js/jquery.ime/css/jquery.ime.css">
+<link rel="stylesheet" href="css/jquery.qtip.css">
+<!-- <link rel="stylesheet" href="css/jquery.fullpage.css">-->
+<link rel="stylesheet" href="css/select2.css">
+<link rel="stylesheet" href="css/switchery.min.css">
+<link rel="stylesheet" href="css/sweetalert.css">
+<link rel="stylesheet" href="css/mystyle.css">
+<link rel="stylesheet" href="css/bells-and-whistles.css">
+<link rel="icon" type="image/png" sizes="16x16" href="images/rounded/favicon-16x16.png">
+<link rel="icon" href="images/rounded/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+</head>
+
+<body data-spy='scroll' data-taget='#spy'>
+    <div id="sidebar-wrapper">
+        <nav id="spy">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="./">
+                    <!--<img alt="Brand" src="images/normal/apple-icon-120x120.png" width="60px" height="60px">-->
+                </a>
+            </div>
+            <ul class="sidebar-nav nav">
+                <li id="input_link" class="nav_link active">
+                    <a href="#input_section">
+                        Natural Text <!-- <div class="circle"></div> -->
+                    </a>
+                </li>
+                <li id="complex_sentence_link" class="nav_link">
+                    <a href="#complex_sentence_section" data-scroll>
+                        Mark Sentences  <!-- <div class="circle"></div>  -->
+                    </a>
+                </li>
+                <li id="proper_noun_link" class="nav_link">
+                    <a href="#proper_noun_section" data-scroll>
+                        Tag Proper Nouns  <!-- <div class="circle"></div> -->
+                    </a>
+                </li>
+                <li id="chunking_link" class="nav_link">
+                    <a href="#chunking_section" data-scroll>
+                        Tag Chunks <!-- <div class="circle"></div> -->
+                    </a>
+                </li>
+                <li id="chl_link" class="nav_link">
+                    <a href="#chl_section" data-scroll>
+                        CHL Text<!-- <div class="circle"></div> -->
+                    </a>
+                </li>
+                <li id="feedback_link" class="nav_link">
+                    <a href="#feedback_section" data-scroll>
+                        Submit Feedback <!-- <div class="circle"></div> -->
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="fullpage">
+        <div class="section" id="input_section">
+            <nav class="navbar navbar-default">
+  				<div class="container-fluid">
+    				<div class="navbar-header">
+      					<a class="navbar-brand" id="logo" href="#">Communicator</a>
+      					<a class="navbar-text navbar-right" href="#"> Tutorial </a> 
+      					<a class="navbar-text navbar-right" href="#"> Reference </a>
+      					<a class="navbar-text navbar-right" href="#"> About </a>
+    				</div>
+  				</div>
+			</nav>
+            <div class="name alert alert-info alert-dismissible" role="alert">
+                <h1><!-- <img src="images/normal/apple-icon-60x60.png"> -->Communicator Tool</h1>
+                <h4>Converting Natural Text to Controlled Hindi Text</h4>
+            </div>
+            <div class="row section-alert alert-info alert-dismissible">
+                <!-- <div class="col-md-1">
+                	<img src="images/notify.png" width="60px" height="75px" class="img-rounded">
+                </div> -->
+                <!--<ul>
+	        	<li> Start typing Hindi to start the conversion.</li>
+	        	<li>To use a rule-based parser instead of statistical parser, click on the caret.</li>
+	        	<li>If you'd like to assist with identifying proper nouns or demarcating sentences in a complex 
+	        	sentence, click on those options. </li>
+	        	<li>Having trouble? We've set-up a detailed tutorial with examples <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here.</a></li>
+                </ul> -->
+                - Start typing Hindi to start the conversion.<br>
+                - To use a rule-based parser instead of statistical parser, click on the caret<br>
+                - If you'd like to assist with identifying proper nouns or demarcating sentences in a complex sentence, click on those options. <br>
+                - Having trouble? We've set-up a detailed tutorial with examples <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here.</a><br>
+            </div>
+            <div class="row form-group" id="input_area">
+                <div class="col-md-9">
+                    <textarea id="hin_input" class="form-control" rows=5 placeholder="Enter Hindi Text">लता का भाई विद्यालय जाता है</textarea> 
+                </div>
+                <div class="col-md-3 btn-group" id="all_buttons">
+                    <a id="raw_convert" data-api="raw_annotate" class="btn btn-primary" href="#">Annotate Manually</a>
+                    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                         <li><a id="ilparser_convert" data-api="run" href="#"> Statistical Parser</a></li>
+                          <li role="separator" class="divider"></li>
+                        <li><a id="rule_based_convert" data-api="rulebased_run" href="#"> Rule-based Parser</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="questions row">
+                <div class="col-md-offset-1 col-md-4">
+                        <input id="complex_sentence_tagging_checkbox" class="js-switch" type="checkbox" required>
+                        <label for="complex_sentence_tagging_checkbox">Mark Complex Sentences</label>
+                </div>
+                <div class="col-md-6">
+                        <input id="proper_noun_tagging_checkbox" class="js-switch" type="checkbox" required>
+                        <label for="proper_noun_tagging_checkbox">Tag Proper Nouns</label>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="complex_sentence_section">
+            <div class="row section-header">
+                <h2 style="display: inline; vertical-align: middle;">Mark Complex Sentences </h2>
+                <!-- <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a> -->
+            </div>
+            <div class="row section-alert alert-info alert-dismissible">
+                <ul>
+                    <li>To demarcate a sentence, you've need to click both the first and last words of that sentence</li>
+                    <li>You'll observe matching colors for each pair of first and last words</li>
+                    <!--<li>Please make sure that you are marking only for complex sentences</li>-->
+                    <li>Need help? Head over <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here</a>
+                </ul>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="complex_sent_help" tabindex="-1" role="dialog" aria-labelledby="complexSentHelp">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Tagging Complex Sentences</h4>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                    To avoid ambiguity on a complex sentence, user can give the marking of each simple sentence present in the complex sentence<br>
+                    Ex: for a sentence,<br>
+                            राम ने कहा कि वह घर जाएगा |<br>
+                        we will have provide the interface, <br>
+                            <button>राम</button> <button>ने</button> <button>कहा</button> <button>कि</button> <button>वह</button> <button>घर</button> <button>जाएगा</button> <button>|</button> <br>
+                        The simple sentences here are: राम ने कहा and वह घर जाएगा<br>
+                        To tag the sentences, please click on the starting word and ending word of a sentence respectively for each sentence.<br>
+                        After first sentence selection:<br>
+                            <button style="background-color: red">राम</button> <button>ने</button> <button style="background-color: red">कहा</button> <button>कि</button> <button>वह</button> <button>घर</button> <button>जाएगा</button> <button>|</button> <br>
+                        After second sentence selection:<br>
+                            <button style="background-color: red">राम</button> <button>ने</button> <button style="background-color: red">कहा</button> <button>कि</button> <button style="background-color: green">वह</button> <button>घर</button> <button style="background-color: green">जाएगा</button> <button>|</button> <br>
+                    </p>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="form-group" id="cst_text">
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-md-offset-5">
+                    <button id="reset-brackets" class="btn btn-default" type="submit">Reset</button>
+                    <button id="cst-submit" class="btn btn-primary section-submit" type="submit" data-uid="cst">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="proper_noun_section">
+            <div class="section-header">
+                <h2>Tag Proper Nouns</h2>
+            </div>
+            <div class="row section-alert alert-info alert-dismissible">
+                <ul>
+                    <li>A parser always has problems in Named Entity Recognition</li>
+                    <li>This tagging of named entity will improve the correctness of translation</li>
+                    <li>Just click on all the named entities in your sentences, then press 'Done'</li>
+                    <li>For a more detailed example and tutorial, please click <a data-toggle="modal" data-target="#proper_noun_help" title="Click here for help" id="properhelp">here</a>
+                </ul>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="proper_noun_help" tabindex="-1" role="dialog" aria-labelledby="properNounHelp">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Marking Proper Nouns</h4>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                        Some Content
+                    </p>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="form-group" id="cnt_text">
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-md-offset-5">
+                    <button id="cnt-submit" class="btn btn-primary section-submit" type="submit" data-uid="cnt">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="chunking_section">
+            <div class="row section-header">
+            <h2>
+                Tag Word Chunks
+            </h2>
+            </div>
+            <div class="row section-alert alert-info alert-dismissible">
+                - A Chunk is defined as a collection of words that form a phrase. <br>
+                - To mark a chunk, pick it's constituent wors and then click join. <BR>
+                - Repeat this until you've marked all the chunks. <BR>
+                - Need help? We've got you covered. Head over <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here</a> to see an example.<BR>
+            </div>
+            <div class="form-group" id="chnk_text">
+            </div>
+            <div class="row">
+                <div class="col-md-7 col-md-offset-2">
+                    <button type="submit" class="btn btn-danger" id="split-chunk">Split</button>
+                    <button type="submit" class="btn btn-warning" id="join-chunk" data-jointype="normal">Join</button>
+                    <button type="submit" class="btn btn-default" id="join-chunk" data-jointype="compoundnoun">Join as Compound Noun</button>
+                    <button type="submit" class="btn btn-default" id="join-chunk" data-jointype="complexpredicate">Join as Complex Predicate</button>
+                </div>
+                <div class="col-md-2">
+                    <button id="chnk-submit" class="btn btn-primary section-submit" type="submit" data-uid="chnk">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="chl_section">
+            <div class="section-header">
+                <h2>Controlled Hindi Text</h2>
+            </div>
+            <div class="row section-alert alert-info alert-dismissible">
+                <ul>
+                    <li>Corrections to the CHL form is essential for 'good' translation</li>
+                    <li>To change the pratyaya of a word, just click and select the correct relation</li>
+                    <li>To change the prakriti word, just click and write the correct form</li>
+                    <li>For a more detailed example and tutorial, please click <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here</a></li>
+                </ul>
+            </div>
+            <!--<button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal" style="margin:5px;"> <b>Parser Output</b> </button> -->
+            <!-- MODAL FOR ILPARSER OUTPUT-->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document" style="min-width:900px;">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title" id="myModalLabel">ILPARSER OUTPUT</h4>
+                        </div>
+                        <div class="modal-body" id="parsed_sent">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group" id="default_chl_text">
+                Please Finish the above operations to see the chl form.
+            </div>
+            <div class="row" id="loading_image">
+                <!-- <img src="images/ring-alt.gif" alt="Loading..."> -->
+            </div>
+            <div class="row" id="answer_row">
+                <div class="row">
+                    <div class="col-md-offset-5 col-md-1">
+                        <button class="btn btn-default btn-sm" id="undo"><img src="images/undo-icon.png">undo</button>
+                    </div>
+                </div>
+                <div id="output"></div>
+                <button id="translate" class="btn btn-success">Translate</button>
+                <div class="row" id="translated_output"></div>
+            </div>
+        </div>
+        <div class="section" id="feedback_section">
+            <div class="section-header">
+                <h2>Feedback</h2>
+            </div>
+            <div class="row" id="feedback">
+                <textarea id="feedback_textarea" style="display: inline-block; margin: 0px; width: 100%; height: 100px;font-size:20px;"></textarea>
+                <button class="btn btn-success" id="save_button" style="margin: 10px;float:right;">Save</button>
+            </div>
+        </div>
+    </div>
+	<script src="js/jquery-1.12.0.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
+    <script src="js/jquery.ime/libs/rangy/rangy-core.js"></script>
+    <script src="js/jquery.ime/src/jquery.ime.js"></script>
+    <script src="js/jquery.ime/src/jquery.ime.selector.js"></script>
+    <script src="js/jquery.ime/src/jquery.ime.preferences.js"></script>
+    <script src="js/jquery.ime/src/jquery.ime.inputmethods.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.qtip.js"></script>
+    <script src="js/switchery.min.js"></script>
+    <script src="js/sweetalert.min.js"></script>
+    <!--    <script src="js/jquery.fullpage.js"></script> -->
+    <script src="js/select2.full.js"></script>
+    <!-- <script src="js/animatedModal.js"></script> -->
+    <script src="js/bootstrap-tour.min.js"></script>
+    <script src="js/toastr.min.js"></script>
+	<script src="js/progress.js"></script>
+	<script src="js/myscript.js"></script>
+</body>
+
+</html>

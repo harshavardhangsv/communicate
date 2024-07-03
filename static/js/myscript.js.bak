@@ -1,0 +1,139 @@
+/*jslint browser: true*/
+/*global $, jQuery, alert, console*/
+
+var ip_address = "http://10.1.65.29:9000";
+function initialize() {
+    "use strict";
+    $("#answer_row").hide();
+    $("#loading_image").hide();
+    $("#hin_input").ime({
+        languages : ['hi', 'en']
+    });
+    $.ime.preferences.setLanguage('hi');
+    $.ime.preferences.setIM($.ime.languages.hi.inputmethods[0]);
+}
+
+
+var uni;
+function createButtons(output) {
+    "use strict";
+    var html = '', index, result, sentence_index;
+    console.log(output);
+    uni = output;
+    for (sentence_index = 0; sentence_index < output.length; sentence_index += 1) {
+        result = output[sentence_index][0];
+        for (index in result) {
+            if (result[index].prakriti_attached.length > 1) {
+                html += '<button class="word btn btn-small" id="' + index.toString() + '" data-sid="' + sentence_index.toString() + '">' + result[index].prakriti + '</button>';
+            } else {
+                html += result[index].prakriti;
+            }
+            html += '<button class="word btn btn-small" id="' + index.toString() + '" data-sid="' + sentence_index.toString() + '">' + result[index].pratyaya + '</button>';
+        }
+        html += '<br>';
+    }
+    //console.log(html);
+    $('#output').html(html);
+    $("#loading_image").hide();
+    $("#answer_row").show();
+}
+
+
+function get_content(wid, sid) {
+    var options = uni[sid][0][wid]['prakriti_options'];
+    //if($('#something' + wid + sid).length == 1) {
+    //    $('#something' + wid + sid)[0].remove();
+    //}
+    html = '<select class="customselect" id="something' + wid + sid + '" data-sid="' + sid + '" data-wid="' + wid + '"><br>';
+    for(var drel in options) {
+        console.log(options);
+        relation_name = options[drel].name;
+        html += '<option name="' + drel + '">' + relation_name + '</option><br>';
+    }
+    html += '</select><br>';
+    html += '<button class="btn btn-small custombutton" id="button' + wid + sid +'" data-selectid="something' + wid + sid + '">Submit</button>'
+    return html;
+}
+
+
+$(document).ready(function () {
+//    "use strict";
+    initialize();
+	$("#submit").click(function () {
+	    $("#answer_row").hide();
+		$("#loading_image").show();
+		$.ajax({
+			url: ip_address + "/run",
+			method: "POST",
+            dataType: "json",
+			data: {
+				"mainInput": $("#hin_input")[0].value
+			},
+            success: createButtons
+        });
+	});
+
+    $(document).on('click', '.word', function (event){
+        $(this).qtip({
+            overwrite: false,
+            content : {
+//                text: get_content($(this).attr('id'), $(this).data('sid'))
+                text : function(event, api) {
+                    var wid = $(this).attr('id');
+                    var sid = $(this).data('sid');
+                    try {
+                        $('#something' + wid + sid)[0].remove();
+                    } catch (err) {
+                        console.log('not rendered yet!!')
+                    }
+                    var options = uni[sid][0][wid]['prakriti_options'];
+                    var html = '<select class="customselect" id="something' + wid + sid + '" data-sid="' + sid + '" data-wid="' + wid + '"><br>';
+                    for(var drel in options) {
+                        //console.log(options);
+                        var relation_name = options[drel].name;
+                        html += '<option name="' + drel + '">' + relation_name + '</option><br>';
+                    }
+                    html += '</select><br>';
+                    html += '<button class="btn btn-small custombutton" id="button' + wid + sid +'" data-selectid="something' + wid + sid + '">Submit</button>'
+                    return html;
+                }
+            },
+            show : {
+                event: event.type,
+                ready: true
+            },
+            position: {
+                my: 'top center',  // Position my top left...
+                at: 'bottom center', // at the bottom right of...
+            },
+            hide : 'unfocus',
+            style : {
+                classes: 'qtip-bootstrap customclass'
+            }
+        }, event);
+    });
+    
+    $(document).on('click', '.custombutton', function (){
+        var selectid = $(this).data('selectid');
+        var wid = $('#'+selectid).data('wid');
+        var sid = $('#'+selectid).data('sid');
+        var select_element = $('#'+selectid)[0];
+        uni[sid][1][wid].drel = $(select_element).find('option:selected').attr('name');
+        console.log($(select_element).find('option:selected').attr('name'));
+        console.log(uni[sid][1][wid].drel);
+        console.log(uni);
+        $.ajax({
+            url: ip_address + "/change",
+            method: "POST",
+            data: {
+                    "result": JSON.stringify(uni)
+            },
+            //contentType: "application/json; charset=utf-8",
+            dataType: "JSON",
+            success: function(output) {
+                createButtons(output);
+                uni = output;
+            }
+        });
+    });
+});

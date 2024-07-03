@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<title>Converting Natural text to Controlled text</title>
+<link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.min.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap-tour.min.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='js/jquery.ime/css/jquery.ime.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/jquery.qtip.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/select2.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/sweetalert.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/switchery.min.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/toastr.min.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/mystyle.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/flip.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/bells-and-whistles.css')}}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{url_for('static', filename='images/rounded/favicon-16x16.png')}}">
+<link rel="icon" href="{{url_for('static', filename='images/rounded/favicon-16x16.png')}}" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+</head>
+
+<body data-spy='scroll' data-taget='#spy'>
+    {% include "nav.html" %}
+    <div id="fullpage">
+        {% include "input_section.html"  %}
+        {% include "proper_noun_section.html"  %}
+        {% include "mass_definite_noun_section.html"  %}
+        {% include "chunking_section.html"  %}
+        {% include "chl_section.html"  %}
+        {% include "gloss_section.html"  %}
+        {% include "translation_section.html"  %}
+        {% include "feedback_section.html"  %}
+    </div>
+    <script src="{{url_for('static',filename='js/jquery-1.12.0.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery-ui.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.ime/libs/rangy/rangy-core.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.ime/src/jquery.ime.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.ime/src/jquery.ime.selector.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.ime/src/jquery.ime.preferences.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.ime/src/jquery.ime.inputmethods.js')}}"></script>
+    <script src="{{url_for('static',filename='js/bootstrap.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.qtip.js')}}"></script>
+    <script src="{{url_for('static',filename='js/switchery.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/sweetalert.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/select2.full.js')}}"></script>
+    <script src="{{url_for('static',filename='js/bootstrap-tour.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/toastr.min.js')}}"></script>
+    <script src="{{url_for('static',filename='js/progress.js')}}"></script>
+    <script src="{{url_for('static',filename='js/jquery.mousewheel.js')}}"></script>
+    <script src="{{url_for('static',filename='js/myscript.js')}}"></script>
+    <script src="{{url_for('static',filename='js/new_script.js')}}"></script>
+</body>
+</html>

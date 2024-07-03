@@ -1,0 +1,22 @@
+<div class="section" id="input_section">
+    {% include "horizontal_nav.html"  %}
+    {% include "title.html"  %}
+    <div class="row form-group" id="input_area">
+        <div class="col-md-11">
+            <textarea id="hin_input" class="form-control" rows=5 placeholder="Enter Hindi Text">लडका चम्मच से चावल खाता है</textarea>
+        </div>
+    </div>
+    <div class="questions row" style="height:50px;margin-top:10px">
+        <div class="col-md-offset-1 col-md-4">
+                <!--<input id="complex_sentence_tagging_checkbox" class="js-switch" type="checkbox" style="display:none" required>-->
+                <input id="complex_sentence_tagging_checkbox" type="checkbox" style="display:none" required>
+        </div>
+        <div class="col-md-5">
+                <input id="proper_noun_tagging_checkbox" class="js-switch" type="checkbox" required>
+                <label for="proper_noun_tagging_checkbox">Tag Proper Nouns</label>
+        </div>
+        <div class="col-md-1 btn-group" id="all_buttons">
+            <a id="rule_based_convert" data-api="rulebased_run" class="btn btn-primary" href="#">Run Parser</a>
+        </div>
+    </div>
+</div>

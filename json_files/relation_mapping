@@ -1,0 +1,875 @@
+{
+    "without_postposition": {
+        "lwg__vaux_cont": {
+            "tag": "auxillary_continuous", 
+            "name": "auxillary_continuous"
+        }, 
+        "ras-r6": {
+            "tag": "saha-shashthi", 
+            "name": "saha-shashthi"
+        }, 
+        "rtu": {
+            "tag": "saadrishya-tadarthya", 
+            "name": "saadrishya-tadarthya"
+        }, 
+        "mod__wq": {
+            "tag": "modifier_question", 
+            "name": "modifier_question"
+        }, 
+        "adv": {
+            "tag": "kriyavisheshana", 
+            "name": "kriyavisheshana"
+        }, 
+        "adv1": {
+            "tag": "kriyavisheshana", 
+            "name": "kriyavisheshana"
+        },
+        "adv2": {
+            "tag": "vaakyavisheshana", 
+            "name": "vaakyavisheshana"
+        },
+        "rs": {
+            "tag": "relaton-samanadhikarana", 
+            "name": "relaton-samanadhikarana"
+        }, 
+        "undef": {
+            "tag": "undefined", 
+            "name": "undefined"
+        }, 
+        "k4u": {
+            "tag": "saadrishya-sampradana", 
+            "name": "saadrishya-sampradana"
+        }, 
+        "main": {
+            "tag": "main", 
+            "name": "main"
+        }, 
+        "k4a": {
+            "tag": "0anubhava-karta", 
+            "name": "anubhava-karta"
+        }, 
+        "lwg__psp": {
+            "tag": "postposition", 
+            "name": "postposition"
+        }, 
+        "pk1": {
+            "tag": "0causee", 
+            "name": "causee"
+        }, 
+        "ras-rt": {
+            "tag": "saha-purpose", 
+            "name": "saha-purpose"
+        }, 
+        "lwg__rp": {
+            "tag": "_em", 
+            "name": "adverb"
+        }, 
+        "pof__cn": {
+            "tag": "compound-noun", 
+            "name": "compound-noun"
+        }, 
+        "mod": {
+            "tag": "modifier", 
+            "name": "modifier"
+        }, 
+        "pof__redup": {
+            "tag": "reduplication", 
+            "name": "reduplication"
+        }, 
+        "ras__k7": {
+            "tag": "ras__k7", 
+            "name": "ras__k7"
+        }, 
+        "ccof": {
+            "tag": "", 
+            "name": "sentential-clause"
+        }, 
+        "k7tu": {
+            "tag": "saadrishya-kaladhikarana", 
+            "name": "saadrishya-kaladhikarana"
+        }, 
+        "ras-k4a": {
+            "tag": "saha-anubhavakarta", 
+            "name": "saha-anubhavakarta"
+        }, 
+        "vmod__adv": {
+            "tag": "modifier-kriyavisheshana", 
+            "name": "modifier-kriyavisheshana"
+        }, 
+        "k7pu": {
+            "tag": "saadrishya-deshadhikarana", 
+            "name": "saadrishya-deshadhikarana"
+        }, 
+        "r6-k1": {
+            "tag": "karta_of_complex_predicate", 
+            "name": "karta_of_complex_predicate"
+        }, 
+        "r6-k2": {
+            "tag": "karma_of_complex_predicate", 
+            "name": "karma_of_complex_predicate"
+        }, 
+        "jjmod": {
+            "tag": "modifier-adjective", 
+            "name": "Adjective_Modifier"
+        }, 
+        "rsp": {
+            "tag": "duratives", 
+            "name": "duratives"
+        }, 
+        "sent-adv": {
+            "tag": "sentential-adverb", 
+            "name": "sentential-adverb"
+        }, 
+        "rd": {
+            "tag": "direction", 
+            "name": "direction"
+        }, 
+        "nmod__adj": {
+            "tag": "_1", 
+            "name": "Adjective"
+        },
+        "nmod__adj1": {
+            "tag": "_1", 
+            "name": "Adjective"
+        },
+        "nmod__adj2": {
+            "tag": "_1", 
+            "name": "Noun_Modifier"
+        },
+        "nmod__adj3": {
+            "tag": "_1", 
+            "name": "Proper_Noun_Modifier"
+        },
+        "nmod__adj4": {
+            "tag": "_1d", 
+            "name": "Demonstrator"
+        },
+        "nmod__adj5": {
+            "tag": "_1o", 
+            "name": "Ordinal"
+        },
+        "nmod__adj6": {
+            "tag": "_1n", 
+            "name": "Number"
+        },
+        "nmod__adj7": {
+            "tag": "_1q", 
+            "name": "Quantifier"
+        },                 
+        "nmod__adj8": {
+            "tag": "_1q", 
+            "name": "Quantifier"
+        },                 
+        "nmod__adj9": {
+            "tag": "_2", 
+            "name": "Intensifier"
+        },                 
+        "nmod__k2inv": {
+            "tag": "modifier-karma", 
+            "name": "modifier-karma"
+        }, 
+        "rh": {
+            "tag": "hetu", 
+            "name": "hetu"
+        }, 
+        "k7a": {
+            "tag": "according-to", 
+            "name": "according-to"
+        }, 
+        "ras-neg": {
+            "tag": "NEG", 
+            "name": "Negation"
+        }, 
+        "k7p": {
+            "tag": "07p", 
+            "name": "deshAdhikarana"
+        }, 
+        "k7u": {
+            "tag": "saadrishya-adhikarana", 
+            "name": "saadrishya-adhikarana"
+        }, 
+        "k7t": {
+            "tag": "07t", 
+            "name": "kAlAdhikarana"
+        }, 
+        "ras-r6-k2": {
+            "tag": "ras-r6-k2", 
+            "name": "ras-r6-k2"
+        }, 
+        "r6": {
+            "tag": "06", 
+            "name": "Shashthi"
+        }, 
+        "vmod": {
+            "tag": "verb-modifier", 
+            "name": "verb-modifier"
+        },
+        "vmod2": {
+            "tag": "pUrvakAlika", 
+            "name": "pUrvakAlika"
+        }, 
+        "vmod3": {
+            "tag": "samakAlika", 
+            "name": "samakAlika"
+        }, 
+        "r6v": {
+            "tag": "kA-relation-between-a-noun-and-a-verb", 
+            "name": "kA-relation-between-a-noun-and-a-verb"
+        }, 
+        "jjmod__intf": {
+            "tag": "_2", 
+            "name": "Intensifier"
+        }, 
+        "lwg__vaux": {
+            "tag": "auxillary", 
+            "name": "auxillary"
+        }, 
+        "pof": {
+            "tag": "kriyamula", 
+            "name": "Kriyamula"
+        }, 
+        "pof__inv": {
+            "tag": "kriya_mula", 
+            "name": "kriya_mula"
+        }, 
+        "nmod__pofinv": {
+            "tag": "modifier-kriyamula", 
+            "name": "modifier-kriyamula"
+        }, 
+        "nmod__relc": {
+            "tag": "modifier_relative_clause", 
+            "name": "modifier_relative_clause"
+        }, 
+        "jjmod__relc": {
+            "tag": "adjective-modifier-relative_clause", 
+            "name": "adjective-modifier-relative_clause"
+        }, 
+        "nmod__emph": {
+            "tag": "modifier-emphatic", 
+            "name": "modifier-emphatic"
+        }, 
+        "k1s": {
+            "tag": "=01", 
+            "name": "karta_samAnAdhikarana"
+        }, 
+        "k1u": {
+            "tag": "saadrishya-karta", 
+            "name": "saadrishya-karta"
+        }, 
+        "nmod": {
+            "tag": "noun-modifier", 
+            "name": "noun-modifier"
+        }, 
+        "lwg__neg": {
+            "tag": "NEG", 
+            "name": "NEG"
+        }, 
+        "psp__cl": {
+            "tag": "clause_postposition", 
+            "name": "clause_postposition"
+        }, 
+        "mk1": {
+            "tag": "0madhyastha-karta", 
+            "name": "0madhyastha-karta"
+        }, 
+        "root": {
+            "tag": "root", 
+            "name": "root"
+        }, 
+        "ras-k4": {
+            "tag": "saha-sampradana", 
+            "name": "saha-sampradana"
+        }, 
+        "rad": {
+            "tag": "address-terms", 
+            "name": "address-terms"
+        }, 
+        "ras-k7": {
+            "tag": "saha-adhikarana", 
+            "name": "saha-adhikarana"
+        }, 
+        "ras-k1": {
+            "tag": "saha-karta", 
+            "name": "saha-karta"
+        }, 
+        "ras-k2": {
+            "tag": "saha-karma", 
+            "name": "saha-karma"
+        }, 
+        "spr": {
+            "tag": "spr", 
+            "name": "spr"
+        }, 
+        "jk1": {
+            "tag": "0causee", 
+            "name": "0causee"
+        }, 
+        "rbmod": {
+            "tag": "adverb-modifier", 
+            "name": "adverb-modifier"
+        }, 
+        "spn": {
+            "tag": "spn", 
+            "name": "spn"
+        }, 
+        "k2s": {
+            "tag": "=02", 
+            "name": "karma_samAnAdhikarana"
+        }, 
+        "k2p": {
+            "tag": "0destination", 
+            "name": "Destination"
+        }, 
+        "enm": {
+            "tag": "enumerator", 
+            "name": "Enumerator"
+        }, 
+        "k2u": {
+            "tag": "saadrishya-karma", 
+            "name": "saadrishya-karma"
+        }, 
+        "k3": {
+            "tag": "03", 
+            "name": "karana"
+        }, 
+        "k2": {
+            "tag": "02", 
+            "name": "karma"
+        }, 
+        "k1": {
+            "tag": "01", 
+            "name": "karta"
+        }, 
+        "k7": {
+            "tag": "07", 
+            "name": "adhikarana"
+        }, 
+        "k5": {
+            "tag": "05", 
+            "name": "apadana"
+        }, 
+        "k4": {
+            "tag": "04", 
+            "name": "sampradana"
+        }, 
+        "ras-k7p": {
+            "tag": "saha-deshaadhikarana", 
+            "name": "saha-deshaadhikarana"
+        }, 
+        "k2g": {
+            "tag": "0secondary-karma", 
+            "name": "secondary-karma"
+        }, 
+        "rt": {
+            "tag": "tadarthya", 
+            "name": "tadarthya"
+        }, 
+        "nmod__k1inv": {
+            "tag": "modifier-karta", 
+            "name": "modifier-karta"
+        }, 
+        "k3u": {
+            "tag": "saadrishya-karana", 
+            "name": "saadrishya-karana"
+        }, 
+        "ras-pof": {
+            "tag": "saha-kriyamula", 
+            "name": "saha-kriyamula"
+        }, 
+        "rsym": {
+            "tag": "symbol", 
+            "name": "symbol"
+        }, 
+        "rbmod__relc": {
+            "tag": "adverb-modifier-relative_clause", 
+            "name": "adverb-modifier-relative_clause"
+        },
+        "-":{
+            "tag":"-",
+            "name":"-"
+        },
+        "discourse_marker":{
+            "tag":"_DM",
+            "name": "Discourse Marker"
+        },
+        "conj":{
+            "tag": "conj",
+            "name": "Conjunction"
+        },
+        "pUrva_kAlika_kriyA": {
+            "tag": "pUrva_kAlika_kriyA",
+            "name": "pUrva_kAlika_kriyA"
+        },
+        "kriyA-vAkyakarma": {
+            "tag": "kriyA-vAkyakarma",
+            "name": "kriyA-vAkyakarma"
+        },
+        "kriyA-vAkya_viBakwi": {
+            "tag": "kriyA-vAkya_viBakwi",
+            "name": "kriyA-vAkya_viBakwi"
+        },
+		"saha_karwA": {
+			"tag": "saha_karwA",
+			"name": "saha_karwA"
+		},
+		"saha_saMbanxI": {
+			"tag": "saha_saMbanxI",
+			"name": "saha_saMbanxI"
+		},
+		"sama_kAlika_kriyA": {
+			"tag": "sama_kAlika_kriyA",
+			"name": "sama_kAlika_kriyA"		
+		},
+		"samAnAXikaraNa": {
+			"tag": "samAnAXikaraNa",
+			"name": "samAnAXikaraNa"		
+		},
+		"yaxi_wo": {
+			"tag": "yaxi_wo",
+			"name": "yaxi_wo"		
+		},
+		"TAM": {
+			"tag": "TAM",
+			"name": "TAM"		
+		}
+    }, 
+
+    "with_postposition": {
+        "lwg__vaux_cont": {
+            "tag": "auxillary_continuous", 
+            "name": "auxillary_continuous"
+        }, 
+        "ras-r6": {
+            "tag": "saha-shashthi", 
+            "name": "saha-shashthi"
+        }, 
+        "rtu": {
+            "tag": "saadrishya-tadarthya", 
+            "name": "saadrishya-tadarthya"
+        }, 
+        "mod__wq": {
+            "tag": "modifier_question", 
+            "name": "modifier_question"
+        }, 
+        "adv": {
+            "tag": "kriyavisheshana", 
+            "name": "kriyavisheshana"
+        }, 
+        "rs": {
+            "tag": "relaton-samanadhikarana", 
+            "name": "relaton-samanadhikarana"
+        }, 
+        "undef": {
+            "tag": "undefined", 
+            "name": "undefined"
+        }, 
+        "k4u": {
+            "tag": "saadrishya-sampradana", 
+            "name": "saadrishya-sampradana"
+        }, 
+        "main": {
+            "tag": "main", 
+            "name": "main"
+        }, 
+        "k4a": {
+            "tag": "anubhava-karta", 
+            "name": "anubhava-karta"
+        }, 
+        "lwg__psp": {
+            "tag": "postposition", 
+            "name": "postposition"
+        }, 
+        "pk1": {
+            "tag": "causee", 
+            "name": "causee"
+        }, 
+        "ras-rt": {
+            "tag": "saha-purpose", 
+            "name": "saha-purpose"
+        }, 
+        "lwg__rp": {
+            "tag": "adverb", 
+            "name": "adverb"
+        }, 
+        "pof__cn": {
+            "tag": "compound-noun", 
+            "name": "compound-noun"
+        }, 
+        "mod": {
+            "tag": "modifier", 
+            "name": "modifier"
+        }, 
+        "pof__redup": {
+            "tag": "reduplication", 
+            "name": "reduplication"
+        }, 
+        "ras__k7": {
+            "tag": "ras__k7", 
+            "name": "ras__k7"
+        }, 
+        "ccof": {
+            "tag": "", 
+            "name": "sentential-clause"
+        }, 
+        "k7tu": {
+            "tag": "saadrishya-kaladhikarana", 
+            "name": "saadrishya-kaladhikarana"
+        }, 
+        "ras-k4a": {
+            "tag": "saha-anubhavakarta", 
+            "name": "saha-anubhavakarta"
+        }, 
+        "vmod__adv": {
+            "tag": "modifier-kriyavisheshana", 
+            "name": "modifier-kriyavisheshana"
+        }, 
+        "k7pu": {
+            "tag": "saadrishya-deshadhikarana", 
+            "name": "saadrishya-deshadhikarana"
+        }, 
+        "r6-k1": {
+            "tag": "karta_of_complex_predicate", 
+            "name": "karta_of_complex_predicate"
+        }, 
+        "r6-k2": {
+            "tag": "karma_of_complex_predicate", 
+            "name": "karma_of_complex_predicate"
+        }, 
+        "jjmod": {
+            "tag": "modifier-adjective", 
+            "name": "Adjective_Modifier"
+        }, 
+        "rsp": {
+            "tag": "duratives", 
+            "name": "duratives"
+        }, 
+        "sent-adv": {
+            "tag": "sentential-adverb", 
+            "name": "sentential-adverb"
+        }, 
+        "rd": {
+            "tag": "direction", 
+            "name": "direction"
+        }, 
+        "nmod__adj": {
+            "tag": "_1", 
+            "name": "Adjective"
+        },
+        "nmod__adj1": {
+            "tag": "_1", 
+            "name": "Adjective"
+        },
+        "nmod__adj2": {
+            "tag": "_1", 
+            "name": "Noun_Modifier"
+        },
+        "nmod__adj3": {
+            "tag": "_1", 
+            "name": "Proper_Noun_Modifier"
+        },
+        "nmod__adj4": {
+            "tag": "_1d", 
+            "name": "Demonstrator"
+        },
+        "nmod__adj5": {
+            "tag": "_1o", 
+            "name": "Ordinal"
+        },
+        "nmod__adj6": {
+            "tag": "_1n", 
+            "name": "Number"
+        },
+        "nmod__adj7": {
+            "tag": "_1q", 
+            "name": "Quantifier"
+        }, 
+        "nmod__k2inv": {
+            "tag": "modifier-karma", 
+            "name": "modifier-karma"
+        }, 
+        "rh": {
+            "tag": "hetu", 
+            "name": "hetu"
+        }, 
+        "k7a": {
+            "tag": "according-to", 
+            "name": "according-to"
+        }, 
+        "ras-neg": {
+            "tag": "NEG", 
+            "name": "Negation"
+        }, 
+        "k7p": {
+            "tag": "7p", 
+            "name": "deshAdhikarana"
+        }, 
+        "k7u": {
+            "tag": "saadrishya-adhikarana", 
+            "name": "saadrishya-adhikarana"
+        }, 
+        "k7t": {
+            "tag": "7t", 
+            "name": "kAlAdhikarana"
+        }, 
+        "ras-r6-k2": {
+            "tag": "ras-r6-k2", 
+            "name": "ras-r6-k2"
+        }, 
+        "r6": {
+            "tag": "", 
+            "name": "Shashsthi"
+        }, 
+        "vmod": {
+            "tag": "verb-modifier", 
+            "name": "verb-modifier"
+        }, 
+        "vmod2": {
+            "tag": "pUrvakAlika", 
+            "name": "pUrvakAlika"
+        },
+        "vmod3": {
+            "tag": "samakAlika", 
+            "name": "samakAlika"
+        }, 
+        "r6v": {
+            "tag": "kA-relation-between-a-noun-and-a-verb", 
+            "name": "kA-relation-between-a-noun-and-a-verb"
+        }, 
+        "jjmod__intf": {
+            "tag": "_2", 
+            "name": "intensifier"
+        },
+        "jjmod__intf1": {
+            "tag": "_2", 
+            "name": "intensifier"
+        }, 
+        "jjmod__intf2": {
+            "tag": "_3", 
+            "name": "intensifier"
+        },
+        "jjmod__intf3": {
+            "tag": "_4", 
+            "name": "intensifier"
+        },
+        "jjmod__intf4": {
+            "tag": "_5", 
+            "name": "intensifier"
+        },
+        "jjmod__intf5": {
+            "tag": "_6", 
+            "name": "intensifier"
+        },
+        "lwg__vaux": {
+            "tag": "auxillary", 
+            "name": "auxillary"
+        }, 
+        "pof": {
+            "tag": "kriyamula", 
+            "name": "kriyamula"
+        }, 
+        "pof__inv": {
+            "tag": "kriya_mula", 
+            "name": "kriya_mula"
+        }, 
+        "nmod__pofinv": {
+            "tag": "modifier-kriyamula", 
+            "name": "modifier-kriyamula"
+        }, 
+        "nmod__relc": {
+            "tag": "modifier_relative_clause", 
+            "name": "modifier_relative_clause"
+        }, 
+        "jjmod__relc": {
+            "tag": "adjective-modifier-relative_clause", 
+            "name": "adjective-modifier-relative_clause"
+        }, 
+        "nmod__emph": {
+            "tag": "modifier-emphatic", 
+            "name": "modifier-emphatic"
+        }, 
+        "k1s": {
+            "tag": "=1", 
+            "name": "karta_samAmAdhikarana"
+        }, 
+        "k1u": {
+            "tag": "saadrishya-karta", 
+            "name": "saadrishya-karta"
+        }, 
+        "nmod": {
+            "tag": "noun-modifier", 
+            "name": "noun-modifier"
+        }, 
+        "lwg__neg": {
+            "tag": "NEG", 
+            "name": "NEG"
+        }, 
+        "psp__cl": {
+            "tag": "clause_postposition", 
+            "name": "clause_postposition"
+        }, 
+        "mk1": {
+            "tag": "madhyastha-karta", 
+            "name": "madhyastha-karta"
+        }, 
+        "root": {
+            "tag": "", 
+            "name": "Root"
+        }, 
+        "ras-k4": {
+            "tag": "saha-sampradana", 
+            "name": "saha-sampradana"
+        }, 
+        "rad": {
+            "tag": "address-terms", 
+            "name": "address-terms"
+        }, 
+        "ras-k7": {
+            "tag": "saha-adhikarana", 
+            "name": "saha-adhikarana"
+        }, 
+        "ras-k1": {
+            "tag": "saha-karta", 
+            "name": "saha-karta"
+        }, 
+        "ras-k2": {
+            "tag": "saha-karma", 
+            "name": "saha-karma"
+        }, 
+        "spr": {
+            "tag": "spr", 
+            "name": "spr"
+        }, 
+        "jk1": {
+            "tag": "causee", 
+            "name": "causee"
+        }, 
+        "rbmod": {
+            "tag": "adverb-modifier", 
+            "name": "adverb-modifier"
+        }, 
+        "spn": {
+            "tag": "spn", 
+            "name": "spn"
+        }, 
+        "k2s": {
+            "tag": "=2", 
+            "name": "karma_samAmAdhikarana"
+        }, 
+        "k2p": {
+            "tag": "destination", 
+            "name": "destination"
+        }, 
+        "enm": {
+            "tag": "enumerator", 
+            "name": "enumerator"
+        }, 
+        "k2u": {
+            "tag": "saadrishya-karma", 
+            "name": "saadrishya-karma"
+        }, 
+        "k3": {
+            "tag": "3", 
+            "name": "karana"
+        }, 
+        "k2": {
+            "tag": "2", 
+            "name": "karma"
+        }, 
+        "k1": {
+            "tag": "1", 
+            "name": "karta"
+        }, 
+        "k7": {
+            "tag": "7", 
+            "name": "adhikarana"
+        }, 
+        "k5": {
+            "tag": "5", 
+            "name": "apadana"
+        }, 
+        "k4": {
+            "tag": "4", 
+            "name": "sampradana"
+        }, 
+        "ras-k7p": {
+            "tag": "saha-deshaadhikarana", 
+            "name": "saha-deshaadhikarana"
+        }, 
+        "k2g": {
+            "tag": "secondary-karma", 
+            "name": "secondary-karma"
+        }, 
+        "rt": {
+            "tag": "tadarthya", 
+            "name": "tadarthya"
+        }, 
+        "nmod__k1inv": {
+            "tag": "modifier-karta", 
+            "name": "modifier-karta"
+        }, 
+        "k3u": {
+            "tag": "saadrishya-karana", 
+            "name": "saadrishya-karana"
+        }, 
+        "ras-pof": {
+            "tag": "saha-kriyamula", 
+            "name": "saha-kriyamula"
+        }, 
+        "rsym": {
+            "tag": "symbol", 
+            "name": "symbol"
+        }, 
+        "rbmod__relc": {
+            "tag": "adverb-modifier-relative_clause", 
+            "name": "adverb-modifier-relative_clause"
+        },
+        "-":{
+            "tag":"-",
+            "name":"-"
+        },
+        "discourse_marker":{
+            "tag":"_DM",
+            "name": "Discourse Marker"
+        },
+         "conj":{
+            "tag": "conj",
+            "name": "Conjunction"
+        },
+        "pUrva_kAlika_kriyA":{
+            "tag": "pUrva_kAlika_kriyA",
+            "name": "pUrva_kAlika_kriyA"
+        },
+        "kriyA-vAkyakarma": {
+            "tag": "kriyA-vAkyakarma",
+            "name": "kriyA-vAkyakarma"
+        },
+        "kriyA-vAkya_viBakwi": {
+            "tag": "kriyA-vAkya_viBakwi",
+            "name": "kriyA-vAkya_viBakwi"
+        },
+		"saha_karwA": {
+			"tag": "saha_karwA",
+			"name": "saha_karwA"
+		},
+		"saha_saMbanxI": {
+			"tag": "saha_saMbanxI",
+			"name": "saha_saMbanxI"
+		},
+		"sama_kAlika_kriyA": {
+			"tag": "sama_kAlika_kriyA",
+			"name": "sama_kAlika_kriyA"		
+		},
+		"samAnAXikaraNa": {
+			"tag": "samAnAXikaraNa",
+			"name": "samAnAXikaraNa"		
+		},
+		"yaxi_wo": {
+			"tag": "yaxi_wo",
+			"name": "yaxi_wo"		
+		},
+		"TAM": {
+			"tag": "TAM",
+			"name": "TAM"		
+		}
+    }
+}

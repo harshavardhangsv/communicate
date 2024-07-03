@@ -1,0 +1,45 @@
+<div class="section" id="chl_section">
+    <div class="section-header">
+        <h2>Controlled Hindi Text</h2>
+    </div>
+<!--    <div class="row section-alert alert-info alert-dismissible">
+        <ul>
+            <li>Corrections to the CHL form is essential for 'good' translation</li>
+            <li>To change the pratyaya of a word, just click and select the correct relation</li>
+            <li>To change the prakriti word, just click and write the correct form</li>
+            <li>For a more detailed example and tutorial, please click <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here</a></li>
+        </ul>
+    </div> -->
+    <!--<button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal" style="margin:5px;"> <b>Parser Output</b> </button> -->
+    <!-- MODAL FOR ILPARSER OUTPUT-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document" style="min-width:900px;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">ILPARSER OUTPUT</h4>
+                </div>
+                <div class="modal-body" id="parsed_sent">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row form-group" id="default_chl_text">
+        Please Finish the above operations to see the chl form.
+    </div>
+    <div class="row" id="loading_image">
+        <!-- <img src="images/ring-alt.gif" alt="Loading..."> -->
+    </div>
+    <div class="row" id="answer_row">
+        <div class="row">
+            <div class="col-md-offset-5 col-md-1">
+                <button class="btn btn-default btn-sm" id="undo"><img src="{{url_for('static', filename='images/undo-icon.png')}}">undo</button>
+            </div>
+        </div>
+        <div id="output"></div>
+        <button id="chl_submit" class="btn btn-success">Submit</button>
+        <!-- <div id="output"></div>
+        <button id="translate" class="btn btn-success">Translate</button>
+        <div class="row" id="translated_output"></div> -->
+    </div>
+</div>

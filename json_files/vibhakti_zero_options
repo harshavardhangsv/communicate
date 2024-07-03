@@ -1,0 +1,258 @@
+{
+    "k1": {
+        "count": 14818, 
+        "name": "karta"
+    }, 
+    "pof": {
+        "count": 10206, 
+        "name": "Kriyamula"
+    }, 
+    "pof__cn": {
+        "count": 10000, 
+        "name": "compound-noun"
+    }, 
+    "nmod__adj": {
+        "count": 9020, 
+        "name": "Adjective"
+    }, 
+    "k2": {
+        "count": 9017, 
+        "name": "karma"
+    },
+    "vmod2": {
+        "count": 8000,
+        "name": "pUrvakAlika"
+    },
+    "vmod3":{
+        "count": 8000,
+        "name": "samakAlika"
+    },
+    "pUrva_kAlika_kriyA":{
+        "count": 8000,
+        "name": "pUrva_kAlika_kriyA"
+    },
+    "kriyA-vAkyakarma": {
+        "count": 8000,
+        "name": "kriyA-vAkyakarma"
+    },
+    "kriyA-vAkya_viBakwi": {
+        "count": 8000,
+        "name": "kriyA-vAkya_viBakwi"
+    },
+	"saha_karwA": {
+        "count": 8000,
+		"name": "saha_karwA"
+	},
+	"saha_saMbanxI": {
+        "count": 8000,
+		"name": "saha_saMbanxI"
+	},
+	"sama_kAlika_kriyA": {
+        "count": 8000,
+		"name": "sama_kAlika_kriyA"		
+	},
+	"samAnAXikaraNa": {
+        "count": 8000,
+		"name": "samAnAXikaraNa"		
+	},
+	"yaxi_wo": {
+        "count": 8000,
+		"name": "yaxi_wo"		
+	},
+	"TAM": {
+        "count": 8000,
+		"name": "TAM"		
+	},
+    "nmod": {
+        "count": 3140, 
+        "name": "noun-modifier"
+    },
+    "conj": {
+        "count": 2000,
+        "name": "conjunction"
+    },
+    "k7t": {
+        "count": 1628, 
+        "name": "kAlAdhikarana"
+    }, 
+    "r6": {
+        "count": 1562, 
+        "name": "Shashthi"
+    }, 
+    "k1s": {
+        "count": 1368, 
+        "name": "karta_samAnAdhikarana"
+    }, 
+    "spr": {
+        "count": 599, 
+        "name": "spr"
+    }, 
+    "ccof": {
+        "count": 480, 
+        "name": "sentential-clause"
+    }, 
+    "root": {
+        "count": 470, 
+        "name": "root"
+    }, 
+    "k2p": {
+        "count": 461, 
+        "name": "Destination"
+    }, 
+    "rs": {
+        "count": 438, 
+        "name": "relaton-samanadhikarana"
+    }, 
+    "jjmod": {
+        "count": 388, 
+        "name": "Adjective_Modifier"
+    }, 
+    "vmod": {
+        "count": 366, 
+        "name": "verb-modifier"
+    }, 
+    "k2s": {
+        "count": 314, 
+        "name": "karma_samAnAdhikarana"
+    }, 
+    "adv": {
+        "count": 290, 
+        "name": "kriyavisheshana"
+    }, 
+    "adv2": {
+        "count": 290,
+        "name": "vaakyavisheshana"
+    },
+    "rad": {
+        "count": 253, 
+        "name": "address-terms"
+    }, 
+    "k7p": {
+        "count": 186, 
+        "name": "deshAdhikarana"
+    }, 
+    "main": {
+        "count": 167, 
+        "name": "main"
+    }, 
+    "k7": {
+        "count": 93, 
+        "name": "adhikarana"
+    }, 
+    "sent-adv": {
+        "count": 52, 
+        "name": "sentential-adverb"
+    }, 
+    "r6-k2": {
+        "count": 51, 
+        "name": "karma_of_complex_predicate"
+    }, 
+    "rbmod": {
+        "count": 37, 
+        "name": "adverb-modifier"
+    }, 
+    "rh": {
+        "count": 32, 
+        "name": "hetu"
+    }, 
+    "k2g": {
+        "count": 30, 
+        "name": "secondary-karma"
+    }, 
+    "k4": {
+        "count": 28, 
+        "name": "sampradana"
+    }, 
+    "spn": {
+        "count": 23, 
+        "name": "spn"
+    }, 
+    "nmod__relc": {
+        "count": 21, 
+        "name": "modifier_relative_clause"
+    }, 
+    "k3": {
+        "count": 19, 
+        "name": "karana"
+    }, 
+    "r6-k1": {
+        "count": 16, 
+        "name": "karta_of_complex_predicate"
+    }, 
+    "k7a": {
+        "count": 11, 
+        "name": "according-to"
+    }, 
+    "ras-neg": {
+        "count": 10, 
+        "name": "Negation"
+    }, 
+    "rt": {
+        "count": 9, 
+        "name": "tadarthya"
+    }, 
+    "ras-k1": {
+        "count": 7, 
+        "name": "saha-karta"
+    }, 
+    "k5": {
+        "count": 7, 
+        "name": "apadana"
+    }, 
+    "nmod__k1inv": {
+        "count": 6, 
+        "name": "modifier-karta"
+    }, 
+    "nmod__emph": {
+        "count": 6, 
+        "name": "modifier-emphatic"
+    }, 
+    "k4a": {
+        "count": 6, 
+        "name": "anubhava-karta"
+    }, 
+    "rd": {
+        "count": 5, 
+        "name": "direction"
+    }, 
+    "rbmod__relc": {
+        "count": 4, 
+        "name": "adverb-modifier-relative_clause"
+    }, 
+    "pk1": {
+        "count": 4, 
+        "name": "causee"
+    }, 
+    "rsym": {
+        "count": 2, 
+        "name": "symbol"
+    }, 
+    "undef": {
+        "count": 1, 
+        "name": "undefined"
+    }, 
+    "rsp": {
+        "count": 1, 
+        "name": "duratives"
+    }, 
+    "ras-k7": {
+        "count": 1, 
+        "name": "saha-adhikarana"
+    }, 
+    "ras-k2": {
+        "count": 1, 
+        "name": "saha-karma"
+    }, 
+    "k2u": {
+        "count": 1, 
+        "name": "saadrishya-karma"
+    }, 
+    "k1u": {
+        "count": 1, 
+        "name": "saadrishya-karta"
+    },
+    "lwg__vaux": {
+        "count": 1, 
+        "name": "auxillary-verb"
+    }
+}

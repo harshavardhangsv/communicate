@@ -1,0 +1,49 @@
+<div class="section" id="complex_sentence_section">
+    <div class="row section-header">
+        <h2 style="display: inline; vertical-align: middle;">Mark Complex Sentences </h2>
+    </div>
+<!--    <div class="row section-alert alert-info alert-dismissible">
+        <ul>
+            <li>To demarcate a sentence, you've need to click both the first and last words of that sentence</li>
+            <li>You'll observe matching colors for each pair of first and last words</li>
+            <li>Need help? Head over <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here</a>
+        </ul>
+    </div> -->
+    <!-- Modal -->
+    <div class="modal fade" id="complex_sent_help" tabindex="-1" role="dialog" aria-labelledby="complexSentHelp">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Tagging Complex Sentences</h4>
+          </div>
+          <div class="modal-body">
+            <p>
+            To avoid ambiguity on a complex sentence, user can give the marking of each simple sentence present in the complex sentence<br>
+            Ex: for a sentence,<br>
+                    राम ने कहा कि वह घर जाएगा |<br>
+                we will have provide the interface, <br>
+                    <button>राम</button> <button>ने</button> <button>कहा</button> <button>कि</button> <button>वह</button> <button>घर</button> <button>जाएगा</button> <button>|</button> <br>
+                The simple sentences here are: राम ने कहा and वह घर जाएगा<br>
+                To tag the sentences, please click on the starting word and ending word of a sentence respectively for each sentence.<br>
+                After first sentence selection:<br>
+                    <button style="background-color: red">राम</button> <button>ने</button> <button style="background-color: red">कहा</button> <button>कि</button> <button>वह</button> <button>घर</button> <button>जाएगा</button> <button>|</button> <br>
+                After second sentence selection:<br>
+                    <button style="background-color: red">राम</button> <button>ने</button> <button style="background-color: red">कहा</button> <button>कि</button> <button style="background-color: green">वह</button> <button>घर</button> <button style="background-color: green">जाएगा</button> <button>|</button> <br>
+            </p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="form-group" id="cst_text">
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-md-offset-5">
+            <button id="reset-brackets" class="btn btn-default" type="submit">Reset</button>
+            <button id="cst-submit" class="btn btn-primary section-submit" type="submit" data-uid="cst">Submit</button>
+        </div>
+    </div>
+</div>

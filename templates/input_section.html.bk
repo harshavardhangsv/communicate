@@ -1,0 +1,39 @@
+<div class="section" id="input_section">
+{% include "horizontal_nav.html"  %}
+{% include "title.html"  %}
+<!-- <div class="row section-alert alert-info alert-dismissible">
+    - Start typing Hindi to start the conversion.<br>
+    - To use a rule-based parser instead of statistical parser, click on the caret<br>
+    - If you'd like to assist with identifying proper nouns or demarcating sentences in a complex sentence, click on those options. <br>
+    - Having trouble? We've set-up a detailed tutorial with examples <a data-toggle="modal" data-target="#complex_sent_help" title="Click here for help" id="complexhelp">here.</a><br>
+</div> -->
+<div class="row form-group" id="input_area">
+    <div class="col-md-9">
+        <textarea id="hin_input" class="form-control" rows=5 placeholder="Enter Hindi Text">लता का भाई विद्यालय जाता है</textarea> 
+    </div>
+    <div class="col-md-3 btn-group" id="all_buttons">
+        <a id="rule_based_convert" data-api="rulebased_run" class="btn btn-primary" href="#">Run Parser</a>
+    </div>
+<!--    <div class="col-md-3 btn-group" id="all_buttons">
+        <a id="raw_convert" data-api="raw_annotate" class="btn btn-primary" href="#">Annotate Manually</a>
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+             <li><a id="ilparser_convert" data-api="run" href="#"> Statistical Parser</a></li>
+              <li role="separator" class="divider"></li>
+            <li><a id="rule_based_convert" data-api="rulebased_run" href="#"> Rule-based Parser</a></li>
+        </ul>
+    </div> -->
+</div>
+<div class="questions row">
+    <div class="col-md-offset-1 col-md-4">
+            <input id="complex_sentence_tagging_checkbox" class="js-switch" type="checkbox" style="display:none" required>
+<!--            <label for="complex_sentence_tagging_checkbox">Mark Complex Sentences</label> -->
+    </div>
+    <div class="col-md-6">
+            <input id="proper_noun_tagging_checkbox" class="js-switch" type="checkbox" required>
+            <label for="proper_noun_tagging_checkbox">Tag Proper Nouns</label>
+    </div>
+</div>
+</div>
